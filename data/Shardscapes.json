@@ -1,0 +1,18 @@
+{
+    "id": 79997992,
+    "name": "Shardscapes",
+    "author": "Kiba",
+    "creators": ["Kiba"],
+    "verifier": "eiruni",
+    "verification": "https://www.youtube.com/watch?v=prAX7gnKrkU",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://youtu.be/lQD4E7INmN0?si=ivB8-3WQ0wu1DxC8",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
