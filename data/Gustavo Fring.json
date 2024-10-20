@@ -1,0 +1,18 @@
+{
+    "id": 80585951,
+    "name": "Gustavo Fring",
+    "author": "Renn241",
+    "creators": ["Kutsu", "Renn241"],
+    "verifier": "Acratic",
+    "verification": "https://youtu.be/OB0YiqyEp2E",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://youtu.be/OB0YiqyEp2E",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
