@@ -1,0 +1,19 @@
+{
+    "id": 32688321,
+    "name": "Incipient",
+    "author": "Jenkins",
+    "creators": ["Jenkins"],
+    "verifier": "Jenkins",
+    "verification": "https://youtu.be/RoMt6_CVfnE",
+    "percentToQualify": 100,
+    "password": "420420",
+    "records": [
+        {
+            "name": "Noxical",
+            "link": "https://youtu.be/BZSS-31i6XY?si=lQSbTk2YPassk45a",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+
+}
