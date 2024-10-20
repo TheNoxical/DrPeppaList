@@ -9,10 +9,10 @@
     "password": "282019",
     "records": [
         {
-            "user": "foin",
-            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "user": "Xtremepoo",
+            "link": "https://www.youtube.com/watch?v=shXYlarod-0",
             "percent": 100,
-            "hz": 360
+            "hz": 60
         },
         {
             "user": "Epsilonic70",
@@ -25,6 +25,12 @@
             "link": "https://youtu.be/IdgHETUjCII?si=bqHB1uspWeaLPfV3",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "foin",
+            "link": "https://www.youtube.com/watch?v=c-4DHApcW2o",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

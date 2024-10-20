@@ -21,10 +21,22 @@
             "hz": 240
         },
         {
+            "user": "foin",
+            "link": "https://www.youtube.com/watch?v=25ORXXMsD28",
+            "percent": 100,
+            "hz": 360
+        },
+        {
             "user": "Epsilonic70",
             "link": "https://youtu.be/rDCrG6w8coo?si=y4FkkdNIZN-GFpvl",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Xtremepoo",
+            "link": "https://www.youtube.com/watch?v=NM8EjWyZQD8",
+            "percent": 100,
+            "hz": 60
         },
         {
             "user": "selasi",
