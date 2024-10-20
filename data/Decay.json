@@ -1,0 +1,18 @@
+{
+    "id": 84354027,
+    "name": "Decay",
+    "author": "KiwiPenguin",
+    "creators": ["KiwiPenguin"],
+    "verifier": "KiwiPenguin",
+    "verification": "https://youtu.be/uV3NEdoSKio",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "dubo",
+            "link": "https://youtu.be/y2V66PkBAO8?si=vSG1rry_gFFVdXgS",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

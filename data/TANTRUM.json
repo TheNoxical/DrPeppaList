@@ -1,0 +1,18 @@
+{
+    "id": 61910810,
+    "name": "TANTRUM",
+    "author": "DanZmeN",
+    "creators": ["ItzMezzo", "flash", "BlueRimz", "Yendis", "ViralDL", "[REDACTED]", "DanZmeN", "BitZel", "SpooFy"],
+    "verifier": "Golden",
+    "verification": "https://youtu.be/4iTMCQMGz-U",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "dubo",
+            "link": "https://youtu.be/HuAgPsSQPbk?si=99wiuFYqvUisz89Y",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
