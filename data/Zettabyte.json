@@ -1,0 +1,18 @@
+{
+    "id": 56089612,
+    "name": "Zettabyte",
+    "author": "Jenkins",
+    "creators": ["Jenkins"],
+    "verifier": "Jenkins",
+    "verification": "https://youtu.be/Dbl99ctIc_E",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Noxical",
+            "link": "https://youtu.be/R2GNHDgQ3Ao?si=H5a6Dh7OeNy4g1gt",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

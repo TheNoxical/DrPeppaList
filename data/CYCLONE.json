@@ -1,0 +1,18 @@
+{
+    "id": 54917442,
+    "name": "CYCLONE",
+    "author": "BIANOX",
+    "creators": ["Helpegasus", "Arceus4", "Jenkins", "Zipixbox", "Sxap", "Enlex", "BIANOX", "kDarko", "ZeroSR", "voltex", "Sequex"],
+    "verifier": "Zeroya",
+    "verification": "https://youtu.be/LyMplFv8txY",
+    "percentToQualify": "100",
+    "password": "142536",
+    "records": [
+        {
+            "user": "Noxical",
+            "link": "https://youtu.be/vLyFqtteVZw?si=zW_phOm_gNXUh5aU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
