@@ -6,22 +6,27 @@
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Epsilonic70",
+        "link": "https://www.youtube.com/@Epsilonic70"
+    },
+    {
+        "role": "admin",
+        "name": "foin",
+        "link": "https://www.youtube.com/@foinn"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "xspear",
+        "link": "https://www.youtube.com/@selasisquared"
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "dofar",
+        "link": "https://www.youtube.com/@dookyfarts"
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Noxical",
+        "link": "https://www.youtube.com/@noxical4953"
     }
 ]
