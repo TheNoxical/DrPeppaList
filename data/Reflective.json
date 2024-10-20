@@ -1,10 +1,10 @@
 {
-    "id": 66315180,
-    "name": "Deflective",
+    "id": 78831233,
+    "name": "Reflective",
     "author": "Mojitoz",
-    "creators": ["DFGames", "MazZedy", "Sting871", "AraxGames", "Vex01", "endevvor", "IZann", "KWMS", "Mojitoz", "AirSavage", "Soluble", "Frisks", "Aleph", "Elvii", "SyndGD", "Lightvoid", "Mzero", "LaserSword33"],
+    "creators": ["DangerKat, Meox, Skele, Lyomi, N3moProd, KWMS, Mojitoz, Shadowboy, Nau, Xatz, Epochal, Allie, iBoop, Viper, Trudde, 7Rodo"],
     "verifier": "Vorgogne",
-    "verification": "https://youtu.be/0y6ritJ3AJs",
+    "verification": "https://www.youtube.com/watch?v=1fzhBT_7Fos",
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
@@ -19,6 +19,12 @@
             "link": "https://youtu.be/_0gDTCLQRbY?si=-XWu9bvv6KgUVpE5",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Xtremepoo",
+            "link": "https://www.youtube.com/watch?v=ash_KPkAGzQ",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
