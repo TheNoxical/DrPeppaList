@@ -1,0 +1,18 @@
+{
+    "id": 103953282,
+    "name": "Marlboro Reds",
+    "author": "xSlendy",
+    "creators": ["xSlendy"],
+    "verifier": "Lingherr",
+    "verification": "https://youtu.be/tWI2dfkCXys",
+    "percentToQualify": "100",
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://youtu.be/hLTOtPUosk8?si=19tC9UFNHQWeLXhd",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
