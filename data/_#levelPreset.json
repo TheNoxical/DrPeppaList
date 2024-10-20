@@ -1,0 +1,18 @@
+{
+    "id": 0,
+    "name": "levelName",
+    "author": "levelPublisher",
+    "creators": ["levelCreators"],
+    "verifier": "levelVerifier",
+    "verification": "youtubeLink",
+    "percentToQualify": "100",
+    "password": "password",
+    "records": [
+        {
+            "user": "username",
+            "link": "youtubeLink",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

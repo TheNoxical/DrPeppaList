@@ -1,0 +1,18 @@
+{
+    "id": 76196489,
+    "name": "troll level",
+    "author": "Lexycat",
+    "creators": ["lena", "Glitchy", "Lexycat"],
+    "verifier": "Johnfree",
+    "verification": "https://youtu.be/eqYr6MLwJE4",
+    "percentToQualify": "100",
+    "password": "001450",
+    "records": [
+        {
+            "user": "dubo",
+            "link": "https://youtu.be/6esqcplMLwU?si=NmyEMZ11wbhp8Z2M",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}

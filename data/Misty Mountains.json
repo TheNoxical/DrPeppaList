@@ -1,0 +1,18 @@
+{
+    "id": 60708767,
+    "name": "Misty Mountains",
+    "author": "We4therMan",
+    "creators": ["We4therMan"],
+    "verifier": "We4therMan",
+    "verification": "https://youtu.be/LiJaBftzL2k",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "dubo",
+            "link": "https://youtu.be/PM8UlGCMPVQ?si=SDWcLQUcIq1vfIBO",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
