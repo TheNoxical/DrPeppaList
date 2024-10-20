@@ -31,6 +31,12 @@
             "link": "https://www.youtube.com/watch?v=c-4DHApcW2o",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Zapi4",
+            "link": "https://www.youtube.com/watch?v=fQQtUfnpAS0",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
