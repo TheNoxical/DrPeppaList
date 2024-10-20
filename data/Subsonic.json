@@ -1,18 +1,18 @@
 {
-    "id": 82598548,
-    "name": "Voided",
-    "author": "JustXSoos",
-    "creators": ["JustXSoos"],
-    "verifier": "Mark Napkin",
-    "verification": "https://youtu.be/1Tkzv0DEMSM",
+    "id": 33387622,
+    "name": "Subsonic",
+    "author": "ViPriN",
+    "creators": ["Terron, Gboy, xcy7, Evasium, Dudex, Viprin, Rustam, TheDevon, PanMan, Sumsar, Jeyzor"],
+    "verifier": "Combined",
+    "verification": "https://youtu.be/F-AfSPnjIcM?si=Z7E9YCzQfDhzb5ig",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
         {
-            "user": "Epsilonic70",
+            "user": "foin",
             "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
             "percent": 100,
-            "hz": 360
+            "hz": 60
         }
     ]
 }

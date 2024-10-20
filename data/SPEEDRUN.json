@@ -1,18 +1,18 @@
 {
-    "id": 82598548,
-    "name": "Voided",
-    "author": "JustXSoos",
-    "creators": ["JustXSoos"],
-    "verifier": "Mark Napkin",
-    "verification": "https://youtu.be/1Tkzv0DEMSM",
+    "id": 58507437,
+    "name": "SPEEDRUN",
+    "author": "Kaito",
+    "creators": ["Kaito"],
+    "verifier": "Cinci",
+    "verification": "https://youtu.be/d_sKFaTLpHA?si=GZRTzZnOJBmA9G7X",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
         {
-            "user": "Epsilonic70",
+            "user": "foin",
             "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
             "percent": 100,
-            "hz": 360
+            "hz": 60
         }
     ]
 }
