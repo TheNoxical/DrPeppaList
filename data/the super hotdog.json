@@ -1,0 +1,18 @@
+{
+    "id": 109730342,
+    "name": "the super hotdog",
+    "author": "AWESOMEME360",
+    "creators": ["AWESOMEME360"],
+    "verifier": "AWESOMEME360",
+    "verification": "https://youtu.be/ZCAD86pTv-4",
+    "percentToQualify": "100",
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "dofar",
+            "link": "https://youtu.be/Pw9GGLSHO7o",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 74924716,
+    "name": "GLISTEN",
+    "author": "Squizaaard",
+    "creators": ["levelCreSquizaaard", "RatQuesadilla", "ovdfo", "xyuns", "Onvilators"],
+    "verifier": "s3batr0nic",
+    "verification": "https://youtu.be/zYf7y83W8vY",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "dofar",
+            "link": "https://youtu.be/zYf7y83W8vY",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

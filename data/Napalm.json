@@ -1,0 +1,18 @@
+{
+    "id": 65561437,
+    "name": "Napalm",
+    "author": "Marwec",
+    "creators": ["Marwec", "Dominus", "victorinoxX", "Vapen", "FerdeFunky", "Buragoz", "zalspr", "OpteX", "Sminx", "Eggnog", "Subwoofer"],
+    "verifier": "Luqualizer",
+    "verification": "https://youtu.be/ND--Ai4XVfM",
+    "percentToQualify": "100",
+    "password": "236589",
+    "records": [
+        {
+            "user": "dofar",
+            "link": "https://www.youtube.com/watch?v=t156pppbIx0",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

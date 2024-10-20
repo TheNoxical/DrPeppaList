@@ -1,0 +1,18 @@
+{
+    "id": 59899374,
+    "name": "Prismatic Haze",
+    "author": "levelPublisher",
+    "creators": ["Moosh", "Gizbro"],
+    "verifier": "Moosh",
+    "verification": "https://youtu.be/RS5ZFcuaw3I",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "dofar",
+            "link": "https://youtu.be/j10FivjcfX4?si=3zW8H8QwS8981SkZ",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

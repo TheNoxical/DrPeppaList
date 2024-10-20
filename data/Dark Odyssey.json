@@ -1,0 +1,18 @@
+{
+    "id": 69010770,
+    "name": "Dark Odyssey",
+    "author": "JonathanGD",
+    "creators": ["JonathanGD"],
+    "verifier": "JonathanGD",
+    "verification": "https://youtu.be/5yJmsTvBZVU",
+    "percentToQualify": "100",
+    "password": "693041",
+    "records": [
+        {
+            "user": "dofar",
+            "link": "https://youtu.be/3SGNAnWxJwc?si=9NAZTKte5Pudokeg",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
