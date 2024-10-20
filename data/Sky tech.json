@@ -1,0 +1,18 @@
+{
+    "id": 38047229,
+    "name": "Sky tech",
+    "author": "Giron",
+    "creators": ["Licentious, Giron"],
+    "verifier": "Giron",
+    "verification": "https://www.youtube.com/watch?v=NtP9QXV96G8&t=88s",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "foin",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
