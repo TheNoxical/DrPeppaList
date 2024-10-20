@@ -1,0 +1,18 @@
+{
+    "id": 81373023,
+    "name": "Loochiverse",
+    "author": "NNerhy",
+    "creators": ["twister", "Hypno74", "GiggsRH", "Nerhy", "DTDom", "Looch", "Koopazu", "Wahffle", "Azuvy"],
+    "verifier": "DTDom",
+    "verification": "https://youtu.be/W3dCHPubwvE",
+    "percentToQualify": "100",
+    "password": "080085",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://www.youtube.com/watch?v=9ujuyDRGRuQ&t=1s",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
