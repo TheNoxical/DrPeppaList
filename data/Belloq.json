@@ -1,0 +1,18 @@
+{
+    "id": 55610687,
+    "name": "Belloq",
+    "author": "Sminx",
+    "creators": ["Onnikonna", "Enzore", "Pennutoh", "Skidel", "YakobNugget", "JaoDay", "Nico99", "Salamander", "Unigeny", "SlimJim", "lolwut", "Epsilonic", "Juhou", "voltex", "Lipz", "Sminx", "Altin"],
+    "verifier": "BrianTheBurger",
+    "verification": "https://youtu.be/-7e3lRUBme8",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://www.youtube.com/watch?v=Ra_6ikFLWkU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

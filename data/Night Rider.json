@@ -1,0 +1,24 @@
+{
+    "id": 78051190,
+    "name": "Night Rider",
+    "author": "lmAnubis",
+    "creators": ["Onnikonna", "Sunix", "Michigun", "TrusTa", "Tongii", "Enely", "SrGuillester", "Riot", "Samifying", "KrmaL", "Cynvic", "Mumalaengi", "JoshenJol", "Mactanow", "ILRELL", "KWMS", "FirsGD", "lmAnubis", "NyamLock", "CuLuC", "Ale", "FerdeFunky", "matty2003", "knobbelboy", "Koolboom", "Xaro", "Arctica", "TamaN", "Expy", "Doominator222", "GaidenHertuny", "Goose", "DesTicY", "Juhou", "voltex", "Zobros", "Surv", "Osiris GD", "MzeroGD", "Zhander"],
+    "verifier": "LuigiDB",
+    "verification": "https://youtu.be/u_hvXLg3mfQ",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://www.youtube.com/watch?v=AuC6VhTUMyg",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Zapi4",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

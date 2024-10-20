@@ -1,0 +1,18 @@
+{
+    "id": 33387622,
+    "name": "SubSoniic",
+    "author": "ViPriN",
+    "creators": ["Jeyzor", "Rustam", "xcy7", "TheDevon", "Evasium", "Dudex", "Sumsar", "Panman", "Terron", "ViPriN", "GgB0y"],
+    "verifier": "combi",
+    "verification": "https://youtu.be/F-AfSPnjIcM",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://www.youtube.com/watch?v=L3aLD32rKHc&t=7s",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 58417850,
+    "name": "Dolos",
+    "author": "Enzeux",
+    "creators": ["Helpegasus", "Digex", "HugoLa", "Mitz", "FrancaDash", "IvanPercie", "MrMeurick", "vit12", "Jhemyson", "Enzeux", "Keitch"],
+    "verifier": "Enzeux",
+    "verification": "https://youtu.be/velFCMli60A",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://www.youtube.com/watch?v=fuYJB2Y1nbQ",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
