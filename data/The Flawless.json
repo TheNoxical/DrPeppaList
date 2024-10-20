@@ -1,0 +1,18 @@
+{
+    "id": 21280210,
+    "name": "The Flawless",
+    "author": "iIiRyaniIi",
+    "creators": ["codly","crispy", "creepz","xevenfurious","raptorz" ,"atheoz","reverier","iIiRyaniIi","megaspeed"],
+    "verifier": "TrusTa",
+    "verification": "https://youtu.be/RHOCE37dP2A",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://youtu.be/RHOCE37dP2A",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
