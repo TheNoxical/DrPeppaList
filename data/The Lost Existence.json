@@ -1,0 +1,18 @@
+{
+    "id": 0,
+    "name": "The Lost Existance",
+    "author": "JonathanGD",
+    "creators": ["JonathanGD"],
+    "verifier": "Luqualizer",
+    "verification": "https://youtu.be/XztPxRuKPi4",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://youtu.be/XztPxRuKPi4",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 82598548,
+    "name": "Voided",
+    "author": "JustXSoos",
+    "creators": ["JustXSoos"],
+    "verifier": "Mark Napkin",
+    "verification": "https://youtu.be/1Tkzv0DEMSM",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://youtu.be/1Tkzv0DEMSM",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 0,
+    "name": "Allegiance",
+    "author": "nikroplays",
+    "creators": ["nikroplays"],
+    "verifier": "Endlevel",
+    "verification": "https://youtu.be/wzutYMNXr-Y",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://youtu.be/wzutYMNXr-Y",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
