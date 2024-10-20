@@ -1,0 +1,18 @@
+{
+    "id": 56782662,
+    "name": "Myocardia",
+    "author": "Toughfey",
+    "creators": ["Toughfey"],
+    "verifier": "Toughfey",
+    "verification": "https://www.youtube.com/watch?v=XdHdazbChbs",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "foin",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
