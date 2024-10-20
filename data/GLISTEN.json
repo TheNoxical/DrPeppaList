@@ -1,0 +1,18 @@
+{
+    "id": 74028410,
+    "name": "EXPLICIT",
+    "author": "waturn",
+    "creators": ["Renn241"],
+    "verifier": "waturn",
+    "verification": "https://youtu.be/azsF8MTeFh0?si=8B_KnBcX5473HgTH",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "foin",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
