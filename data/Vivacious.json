@@ -1,0 +1,18 @@
+{
+    "id": 76997619,
+    "name": "VIvacious",
+    "author": "Renn241",
+    "creators": ["skzyl", "Renn241"],
+    "verifier": "skzyl",
+    "verification": "https://youtu.be/wQoR8lAkMsQ",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://youtu.be/o8Uy3zN-Mdo",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
