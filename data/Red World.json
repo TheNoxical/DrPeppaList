@@ -1,0 +1,18 @@
+{
+    "id": 2374518,
+    "name": "Red World",
+    "author": "saRy",
+    "creators": ["NePtunE, saRy"],
+    "verifier": "SirGuillester",
+    "verification": "https://youtu.be/hL24xcJPnyY",
+    "percentToQualify": "100",
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://youtu.be/hL24xcJPnyY",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

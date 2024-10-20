@@ -1,0 +1,18 @@
+{
+    "id": 48454650,
+    "name": "Penombre",
+    "author": "ZephiroX",
+    "creators": ["ZephiroX"],
+    "verifier": "MrSpaghetti",
+    "verification": "https://youtu.be/9PXrwNR7R0g",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Epsilonic",
+            "link": "https://youtu.be/gVbBqa8DFYY?si=KwW6ONQUAOkpQ8SJ",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

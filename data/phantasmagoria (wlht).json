@@ -1,0 +1,18 @@
+{
+    "id": 79142469,
+    "name": "phantasmagoria (wlht)",
+    "author": "Janucha",
+    "creators": ["Zenovia"],
+    "verifier": "Janucha",
+    "verification": "https://youtu.be/l2MUWqEO0bY",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://youtu.be/l2MUWqEO0bY",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

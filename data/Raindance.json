@@ -1,0 +1,18 @@
+{
+    "id": 57019271,
+    "name": "Raindance",
+    "author": "Milos482",
+    "creators": ["Milos482", "Patchimator", "Craf", "RicoMeister", "LaysMan", "Corrox", "ViralDL", "Mobi", "ZWK", "Prisma", "BlastFurnace"],
+    "verifier": "Kapinapi",
+    "verification": "https://youtu.be/F_UXQyejl_A",
+    "percentToQualify": "100",
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://youtu.be/i8cahGt9YTU?si=srvUzm8jOWhceWfd",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

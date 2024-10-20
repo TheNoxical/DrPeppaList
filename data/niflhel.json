@@ -1,0 +1,18 @@
+{
+    "id": 90197147,
+    "name": "niflhel",
+    "author": "Shard",
+    "creators": ["Shard"],
+    "verifier": "Elia Soverini",
+    "verification": "https://youtu.be/VfvJ40Pbdps",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://youtu.be/RQAbbpbjkgc?si=ztI_m6tmvwlxP7T0",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

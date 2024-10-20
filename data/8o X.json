@@ -1,0 +1,18 @@
+{
+    "id": 39641092,
+    "name": "8o X",
+    "author": "f3lixsram",
+    "creators": ["f3lixsram", "Yakimaru"],
+    "verifier": "f3lixsram",
+    "verification": "https://youtu.be/DLY4rYyV18M",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://youtu.be/DLY4rYyV18M",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

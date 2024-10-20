@@ -1,0 +1,18 @@
+{
+    "id": 102352215,
+    "name": "Ion",
+    "author": "smigels",
+    "creators": ["smigels"],
+    "verifier": "Hypno74",
+    "verification": "https://youtu.be/XOorv-ZPnh0",
+    "percentToQualify": "100",
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://youtu.be/XOorv-ZPnh0",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

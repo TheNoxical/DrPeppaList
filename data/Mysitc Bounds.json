@@ -1,0 +1,18 @@
+{
+    "id": 93549959,
+    "name": "Mystic Bounds",
+    "author": "gmdmann",
+    "creators": ["gmdmann"],
+    "verifier": "gmdmann",
+    "verification": "https://youtu.be/Nqa36orr4cQ",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://youtu.be/Nqa36orr4cQ",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

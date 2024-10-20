@@ -1,0 +1,18 @@
+{
+    "id": 75518661,
+    "name": "Make It Drop",
+    "author": "ryamu",
+    "creators": ["linus02","Helpegasus","Crouley","Itami","curxe","CuaeR","Maitnary","gulesheltenqler","HadoX","ryamu","Zuku","SirZaiss","Sauzzeth","Loqie","voltex","Markus"],
+    "verifier": "Dorami",
+    "verification": "https://youtu.be/jQM6BuHQo0k",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://youtu.be/jQM6BuHQo0k",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

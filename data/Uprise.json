@@ -1,0 +1,18 @@
+{
+    "id": 14977845,
+    "name": "Uprise",
+    "author": "Bad3M",
+    "creators": ["Menkatjezzz" ,"Bad3M"],
+    "verifier": "iNeo",
+    "verification": "https://youtu.be/oQBMG-aacNo",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://www.youtube.com/watch?v=AUyG2uztIDs",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

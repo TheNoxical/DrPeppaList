@@ -1,0 +1,18 @@
+{
+    "id": 57023074,
+    "name": "Castling",
+    "author": "Meroo",
+    "creators": ["Meroo"],
+    "verifier": "-",
+    "verification": "https://youtu.be/0cMfW600dEo",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://www.youtube.com/watch?v=aAFYL6aWxyM&t=418s",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
