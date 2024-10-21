@@ -5,7 +5,7 @@
     "creators": ["Jenkins"],
     "verifier": "Jenkins",
     "verification": "https://youtu.be/RoMt6_CVfnE",
-    "percentToQualify": 100,
+    "percentToQualify": 50,
     "password": "420420",
     "records": [
         {
