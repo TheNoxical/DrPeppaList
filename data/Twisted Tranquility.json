@@ -1,0 +1,18 @@
+{
+    "id": 32920197,
+    "name": "Twisted Tranquility",
+    "author": "Flukester",
+    "creators": ["Killua", "Jghost", "Flukester", "Venom", "Gach", "Kenny", "ZinkZeta", "Jude", "CreatorDino"],
+    "verifier": "BoldStep",
+    "verification": "https://youtu.be/TiaOm9j36Pg",
+    "percentToQualify": "100",
+    "password": "200356",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://www.youtube.com/watch?v=_1mfpY0lG50",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

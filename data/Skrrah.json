@@ -1,0 +1,24 @@
+{
+    "id": 46510793,
+    "name": "Skrrah",
+    "author": "VirtualCrack",
+    "creators": ["Enzore", "TheRealnbsier", "ILRELL", "Kurokawa", "VirtualCrack", "rRaddy", "Reunomi"],
+    "verifier": "Rainstorm",
+    "verification": "https://youtu.be/9jDJ12bp-fw",
+    "percentToQualify": "100",
+    "password": "006660",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Zapi4",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

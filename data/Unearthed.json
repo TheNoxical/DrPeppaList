@@ -1,0 +1,18 @@
+{
+    "id": 50833396,
+    "name": "Unearthed",
+    "author": "YakobNugget",
+    "creators": ["Onnikonna", "TheTrueEclipse", "PotatoBaby", "Arceus4", "YakobNugget", "Syberian", "Wolfking47", "JaoDay", "Alecast", "GDSkele", "iNubble", "Tartofrez", "Luisluigi", "JacobRoso", "MaxiKD", "Konsi", "voltex", "Lipz", "Sequex"],
+    "verifier": "npesta",
+    "verification": "https://youtu.be/yvR454BuffE",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://www.youtube.com/watch?v=aAFYL6aWxyM&t=421s",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

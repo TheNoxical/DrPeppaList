@@ -1,0 +1,18 @@
+{
+    "id": 22434793,
+    "name": "Audio Extraction",
+    "author": "GoodSmile",
+    "creators": ["Star77", "T17", "AbstractDark", "Agent", "Logik", "Bio21", "CubeCreator", "GoodSmile", "Cryomancer", "P14"],
+    "verifier": "Luqualizer",
+    "verification": "https://youtu.be/RyjPsu84PMs",
+    "percentToQualify": "100",
+    "password": "409735",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://www.youtube.com/watch?v=AUyG2uztIDs&t=5s",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
