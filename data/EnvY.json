@@ -1,0 +1,18 @@
+{
+    "id": 45411361,
+    "name": "EnvY",
+    "author": "DanZmeN",
+    "creators": ["DanZmeN"],
+    "verifier": "Dorami",
+    "verification": "https://youtu.be/IUJdtXaUhGM",
+    "percentToQualify": "100",
+    "password": "314159",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://www.youtube.com/watch?v=Ugd-OSBQ_ds",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
