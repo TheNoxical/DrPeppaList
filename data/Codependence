@@ -9,7 +9,13 @@
     "password": "password",
     "records": [
         {
-            "user": ["Epsilonic70", "dofar"],
+            "user": "Epsilonic70",
+            "link": "https://www.youtube.com/watch?v=6C0L4xj7yjM",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "dofar",
             "link": "https://www.youtube.com/watch?v=6C0L4xj7yjM",
             "percent": 100,
             "hz": 360
