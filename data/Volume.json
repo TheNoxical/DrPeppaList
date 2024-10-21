@@ -1,0 +1,18 @@
+{
+    "id": 48020496,
+    "name": "Volume",
+    "author": "Metalface221",
+    "creators": ["Endlevel", "YakobNugget", "Metalface221", "MindCap"],
+    "verifier": "Metalface221",
+    "verification": "https://youtu.be/SdPqLKYp-Uc",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://youtu.be/AUyG2uztIDs?si=S5_3h25B-jcI7gr9",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

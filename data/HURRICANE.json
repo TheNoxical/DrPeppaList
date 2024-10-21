@@ -1,0 +1,18 @@
+{
+    "id": 60726930,
+    "name": "HURRICANE",
+    "author": "BIANOX",
+    "creators": ["Helpegasus","Enzore","Xaren","Kllnex","Geo","KWMS","BIANOX","Manix648","Koolboom","ZeroSR","Sminx","ChaSe","Sequex","Scrumpy"],
+    "verifier": "Floppy",
+    "verification": "https://youtu.be/WQcGIY8_28c",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://youtu.be/AG-584FVoWM?si=GZzi0eUZk22JnQdk",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
