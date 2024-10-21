@@ -1,0 +1,18 @@
+{
+    "id": 55184818,
+    "name": "Glide",
+    "author": "crohn44",
+    "creators": ["crohn44"],
+    "verifier": "crohn44",
+    "verification": "https://youtu.be/IFw94EqMudg",
+    "percentToQualify": "100",
+    "password": "712945",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

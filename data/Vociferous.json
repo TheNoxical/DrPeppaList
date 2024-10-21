@@ -1,0 +1,18 @@
+{
+    "id": 79546293,
+    "name": "Vociferous",
+    "author": "Renn241",
+    "creators": ["skzyl", "Renn241"],
+    "verifier": "skzyl",
+    "verification": "https://youtu.be/x2IOlVDl60Y",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://youtu.be/xZSJ3LvQToY",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
