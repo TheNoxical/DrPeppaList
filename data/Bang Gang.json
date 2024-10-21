@@ -1,0 +1,24 @@
+{
+    "id": 56916170,
+    "name": "Bang Gang",
+    "author": "DanZmeN",
+    "creators": ["DanZmeN"],
+    "verifier": ["Technical", "npesta", "Golden", "Gizbro"],
+    "verification": "https://youtu.be/7hxdtpfKBi4",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://www.youtube.com/watch?v=KA5t75b7rW0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "dofar",
+            "link": "https://www.youtube.com/watch?v=KA5t75b7rW0",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
