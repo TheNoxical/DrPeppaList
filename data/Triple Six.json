@@ -1,0 +1,18 @@
+{
+    "id": 56460850,
+    "name": "Triple Six",
+    "author": "Zylenox",
+    "creators": ["Zylenox"],
+    "verifier": "Zylenox",
+    "verification": "https://youtu.be/VLt8A5E3Fz4",
+    "percentToQualify": "100",
+    "password": "666666",
+    "records": [
+        {
+            "user": "Zapi4",
+            "link": "https://youtu.be/NghY0JD6aX4",
+            "percent": 100,
+            "hz": 165
+        }
+    ]
+}
