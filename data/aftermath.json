@@ -1,0 +1,18 @@
+{
+    "id": 25610878,
+    "name": "aftermath",
+    "author": "Exenity",
+    "creators": ["Hinds", "Exenity", "Squizz", "Findexi", "Waze", "knobbelboy", "Vultra", "Rhythmic", "Bassiegames"],
+    "verifier": "[SPACE] DaMeister",
+    "verification": "https://youtu.be/iLCcJyh5c5k",
+    "percentToQualify": "100",
+    "password": "123985",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://www.youtube.com/watch?v=toqVYbXObJY",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
