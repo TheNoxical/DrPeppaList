@@ -1,0 +1,18 @@
+{
+    "id": 48843446,
+    "name": "Epsilon",
+    "author": "Team Proxima",
+    "creators": ["Drift", "Pennutoh", "SirHadoken", "leo32601", "Cosmicsabre", "Balloons", "LeoCreatorX", "Lqah", "sqrl", "Matterz", "BIANOX", "SlimJim", "MaxiKD", "Hynaedon", "Juhou", "Cybronaut", "Jozhii", "Splash", "Eggnog", "Vulcan"],
+    "verifier": "DiamondSplash",
+    "verification": "https://youtu.be/LDVNlSVh2rw",
+    "percentToQualify": "100",
+    "password": "Free to Company",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://www.youtube.com/watch?v=Q9Mqlhh3W1A",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 44706787,
+    "name": "Pennutoh",
+    "author": "ATMarbl",
+    "creators": ["Pennutoh", "Zanna83", "YakobNugget", "noice", "Enlex", "Corkscrew", "Nico99", "KINGTONY", "Metalface221", "Nemphis", "Poccottini", "Jihn", "Psynapse", "Osiris GD", "Eggnog", "Altin"],
+    "verifier": "Golden",
+    "verification": "https://youtu.be/PanlasFe7ow",
+    "percentToQualify": "100",
+    "password": "210317",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://www.youtube.com/watch?v=5k9UI8topcU&t=11s",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

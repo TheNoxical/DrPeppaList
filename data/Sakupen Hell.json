@@ -1,0 +1,18 @@
+{
+    "id": 23262780,
+    "name": "TrusTa",
+    "author": "TrusTa",
+    "creators": ["Noobas"],
+    "verifier": "TrusTa",
+    "verification": "https://youtu.be/svyOjwLCErg",
+    "percentToQualify": "100",
+    "password": "895562",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
