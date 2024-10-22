@@ -29,7 +29,7 @@ export function score(rank, percent, minPercent) {
     score = Math.max(0, score);
 
     if (percent != 100) {
-        score = ((percent - (minPercent - 1)) / 100) * score;
+        score = round(((percent - (minPercent - 1)) / 100) * score);
         return score;
         // return round(score - score / 3);
     }
