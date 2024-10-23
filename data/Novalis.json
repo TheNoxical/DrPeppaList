@@ -1,18 +1,18 @@
 {
-    "id": 48679353,
-    "name": "Audio Expulsion",
-    "author": "GoodSmile",
-    "creators": ["Jghost", "Thomartin", "AbstractDark", "JustBasic", "Skullkid", "Zenith", "Edge", "Unigeny", "GoodSmile", "Kugelblitz", "Osiris GD"],
-    "verifier": "Luqualizer",
+    "id": 33748382,
+    "name": "Novalis",
+    "author": "Gryllex",
+    "creators": ["Gryllex"],
+    "verifier": "Gryllex",
     "verification": "https://youtu.be/AZy1moiM6j0",
     "percentToQualify": "50",
-    "password": "276943",
+    "password": "Free to Copy",
     "records": [
         {
-            "user": "Epsilonic70",
+            "user": "foin",
             "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
             "percent": 100,
-            "hz": 360
+            "hz": 240
         }
     ]
 }
