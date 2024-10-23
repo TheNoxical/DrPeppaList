@@ -1,0 +1,18 @@
+{
+    "id": 48679353,
+    "name": "Audio Expulsion",
+    "author": "GoodSmile",
+    "creators": ["Jghost", "Thomartin", "AbstractDark", "JustBasic", "Skullkid", "Zenith", "Edge", "Unigeny", "GoodSmile", "Kugelblitz", "Osiris GD"],
+    "verifier": "Luqualizer",
+    "verification": "https://youtu.be/AZy1moiM6j0",
+    "percentToQualify": "50",
+    "password": "276943",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
