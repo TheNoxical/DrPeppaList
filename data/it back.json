@@ -1,0 +1,18 @@
+{
+    "id": 81744548,
+    "name": "it back",
+    "author": "HangyKing",
+    "creators": ["HangyKing"],
+    "verifier": "HangyKing",
+    "verification": "https://youtu.be/I9Vmi2ZWIe4",
+    "percentToQualify": "50",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
