@@ -1,0 +1,18 @@
+{
+    "id": 83357887,
+    "name": "U235",
+    "author": "oleki",
+    "creators": ["oleki"],
+    "verifier": ">harrisongamez<",
+    "verification": "https://youtu.be/-9v9wVGXf1E",
+    "percentToQualify": "50",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Noxical",
+            "link": "https://youtu.be/BO6gxc2Xc4Y?si=yev5Su8aNoRn6We9",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
