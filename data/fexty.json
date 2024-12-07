@@ -1,0 +1,18 @@
+{
+    "id": 25449475,
+    "name": "fexty",
+    "author": "lSkyJax",
+    "creators": ["Ozpectro"],
+    "verifier": "lSkyJax",
+    "verification": "https://youtu.be/VVIwks1J9Z4",
+    "percentToQualify": "100",
+    "password": "012396",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://www.youtube.com/watch?v=C5q3tHY29og&t=27s",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

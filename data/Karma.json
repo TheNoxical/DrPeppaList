@@ -1,0 +1,18 @@
+{
+    "id": 63471387,
+    "name": "Karma",
+    "author": "ARtu",
+    "creators": ["ARtu, Marwec"],
+    "verifier": "ARtu",
+    "verification": "https://youtu.be/_33VOfBOBBY",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://www.youtube.com/watch?v=5iY79PtO0zE&lc=Ugy0wZGUd_j--iRHZrZ4AaABAg",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

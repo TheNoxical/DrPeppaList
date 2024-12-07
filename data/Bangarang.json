@@ -1,0 +1,18 @@
+{
+    "id": 112515547,
+    "name": "Bangarang",
+    "author": "LP44",
+    "creators": ["LP44"],
+    "verifier": "PersonHuman42",
+    "verification": "https://www.youtube.com/watch?v=n62s5MuGdG4&t=12s",
+    "percentToQualify": "100",
+    "password": "i dont even know bro",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
