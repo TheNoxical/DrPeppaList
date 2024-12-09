@@ -14,5 +14,17 @@
             "percent": 100,
             "hz": 360
         }
+        {
+            "user": "fBloop",
+            "link": "https://www.youtube.com/watch?v=5iY79PtO0zE&lc=Ugy0wZGUd_j--iRHZrZ4AaABAg",
+            "percent": 88,
+            "hz": 240
+        },
+        {
+            "user": "selasi",
+            "link": "https://www.youtube.com/watch?v=5iY79PtO0zE&lc=Ugy0wZGUd_j--iRHZrZ4AaABAg",
+            "percent": 61,
+            "hz": 60
+        }
     ]
 }
