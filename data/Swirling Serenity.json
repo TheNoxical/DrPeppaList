@@ -25,6 +25,12 @@
             "link": "https://youtu.be/Pwj1nF14StU",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "foin",
+            "link": "https://www.youtube.com/watch?v=5iY79PtO0zE&lc=Ugy0wZGUd_j--iRHZrZ4AaABAg",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
