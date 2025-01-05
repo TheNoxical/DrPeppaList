@@ -1,0 +1,18 @@
+{
+    "id": 63045458,
+    "name": "Mirage",
+    "author": "Golden",
+    "creators": ["Helpegasus", "Yoshikawa", "V9lt", "Zanna83", "Patchimator", "Temp", "UltraCharge", "GoldenTear", "Rai", "Sminx"],
+    "verifier": "Technical",
+    "verification": "https://youtu.be/V36lGkRI3B8",
+    "percentToQualify": "50",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://www.youtube.com/watch?v=IThXhp838Ug",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
