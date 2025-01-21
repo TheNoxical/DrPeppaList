@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=PLJ9HU_xeI4",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "fBloop",
+            "link": "https://youtu.be/eZdNrIKxMNU",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
