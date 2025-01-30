@@ -5,7 +5,7 @@
 "creators": ["SrGaton", "Fufafac", "Selun", "Zafkiel7", "Kllnex", "Oasiz", "Goyuki", "GeometryTom", "Auntex", "Xuranox", "Bermard", "Axdrel", "Diris", "Zenthisuper", "Herdys", "Yuno", "Zed Aurum", "Hko", "Hoshikido", "FarDreamer"],
 "verifier": "Dorami",
 "verification": "https://youtu.be/EsKfImKvaFc",
-"percentToQualify": "100",
+"percentToQualify": "50",
 "password": "Free to Copy",
 "records": [
     {
@@ -17,7 +17,7 @@
     {
         "user": "selasi",
         "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
-        "percent": 80,
+        "percent": 81,
         "hz": 60
     }
 ]
