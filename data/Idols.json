@@ -21,16 +21,16 @@
         "hz": 60
     },
     {
+        "user": "stacer",
+        "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+        "percent": 89,
+        "hz": 300
+    },
+    {
         "user": "Mr Roach",
         "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
         "percent": 81,
         "hz": 144
-    },
-    {
-        "user": "stacer",
-        "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
-        "percent": 79,
-        "hz": 300
     }
 ]
 
