@@ -27,16 +27,16 @@
         "hz": 300
     },
     {
+        "user": "foin",
+        "link": "https://www.youtube.com/watch?v=an_vEIwWe38",
+        "percent": 100,
+        "hz": 360
+    },
+    {
         "user": "Mr Roach",
         "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
         "percent": 81,
         "hz": 144
-    },
-    {
-        "user": "foin",
-        "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
-        "percent": 88,
-        "hz": 300
     }
 ]
 
