@@ -21,16 +21,22 @@
             "hz": 120
         },
         {
-            "user": "Noxical",
-            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
-            "percent": 63,
-            "hz": 360
-        },
-        {
             "user": "Mr Roach",
             "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "dubo",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 87,
+            "hz": 240
+        },
+        {
+            "user": "Noxical",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 63,
+            "hz": 360
         }
     ]
 }
