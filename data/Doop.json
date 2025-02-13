@@ -1,0 +1,18 @@
+{
+    "id": 51393047,
+    "name": "Doop",
+    "author": "WormFodder",
+    "creators": ["Duffz", "Kllnex", "Paristo", "Temp", "Majkomar", "Metalface221", "XinpA", "Unigeny", "Surge", "Flaksy", "Enixy", "ShowtimeVonParty"],
+    "verifier": "WormFodder",
+    "verification": "https://youtu.be/37DOUFm-qNE",
+    "percentToQualify": "100",
+    "password": "080903",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://cdn.discordapp.com/attachments/916809996400996432/1339014247895535708/Geometry_Dash_2025.02.11_-_14.09.25.02.DVR_-_Trim.mp4?ex=67af27f2&is=67add672&hm=4543253634d153ceffacfe7a62ec288f5108dcb54b5881fb9ccc87e8c1585935&",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
