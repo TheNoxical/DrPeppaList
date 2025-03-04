@@ -1,0 +1,18 @@
+{
+    "id": 62759650,
+    "name": "Caution",
+    "author": "JustaGDplay3r",
+    "creators": ["Crouley, Vapen, guleshelt, Hantein, Andr1x, Deron, Buragoz, Artu"],
+    "verifier": "Zeronium",
+    "verification": "https://youtu.be/jeMSIweyQlA",
+    "percentToQualify": "50",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://www.youtube.com/watch?v=toqVYbXObJY",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
