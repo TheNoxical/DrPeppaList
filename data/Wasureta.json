@@ -1,0 +1,18 @@
+{
+    "id": 64658786,
+    "name": "Wasureta",
+    "author": "Helpegasus",
+    "creators": ["Helpegasus", "Isane", "LimeTime313", "XLSpiral", "BelonziK", "El3ctr0", "crazen", "Deadlox", "augi", "Splash"],
+    "verifier": "VaporWubz",
+    "verification": "https://youtu.be/9jkCtNDbDt0",
+    "percentToQualify": "50",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://youtu.be/bpCriJhYAw8",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
