@@ -1,0 +1,18 @@
+{
+    "id": 96039801,
+    "name": "Obscura",
+    "author": "Eridani",
+    "creators": ["Marwec", "Studt", "Rockwizard5", "YakobNugget", "Lemons", "AirSavage", "GamerKnight750", "Vantablack" ,"Destriv" ,"iMinaY" ,"MercuryDT" ,"Gizbro" ,"Eridani" ,"Xolarzz", "nCylix"],
+    "verifier": "skzyl",
+    "verification": "https://youtu.be/mJPL-DgL_B8",
+    "percentToQualify": "50",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/F7jXvWjBVaA?si=uzYsLeBbZuSuj3AC",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
