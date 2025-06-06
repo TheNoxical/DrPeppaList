@@ -1,0 +1,18 @@
+{
+    "id": 102807047,
+    "name": "Infinite Inversion",
+    "author": "Filqh",
+    "creators": ["Filqh"],
+    "verifier": "STUPID",
+    "verification": "https://youtu.be/SdJguQc9bwk",
+    "percentToQualify": "50",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://youtu.be/zqvCZfNv0jU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
