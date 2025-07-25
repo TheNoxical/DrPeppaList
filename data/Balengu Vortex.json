@@ -1,0 +1,19 @@
+{
+    "id": 55385816,
+    "name": "Balengu Vortex",
+    "author": "Temp",
+    "creators": ["Temp", "ItsHybrid", "HJfod"],
+    "verifier": "Temp",
+    "verification": "https://youtu.be/2BwK_ngpdPA",
+    "percentToQualify": "100",
+    "password": "i dont even know bro",
+    "records": [
+        
+        {
+            "user": "Epsilonic70",
+            "link": "https://www.youtube.com/watch?v=xP-WVfs4msw",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
