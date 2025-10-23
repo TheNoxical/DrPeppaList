@@ -1,0 +1,18 @@
+{
+    "id": 77008332,
+    "name": "Gravity",
+    "author": "Kaza",
+    "creators": ["kaza", "slayer"],
+    "verifier": "icedcave",
+    "verification": "https://youtu.be/Ba4PkcqiZa4",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://cdn.discordapp.com/attachments/445252082891489312/1420832425973387325/Geometry_Dash_2025.09.25_-_13.48.40.06.DVR_-_Trim.mp4?ex=68fbbed0&is=68fa6d50&hm=e98b7c3c53e48e8a47157a98d791031587dcb56be87629862d7c6a7f58906a3d&",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
