@@ -1,0 +1,24 @@
+{
+    "id": 38550757,
+    "name": "Artificial Ideology",
+    "author": "TeamN2",
+    "creators": ["Koreaqwer, Motu, Cyclic, Zelda, Minus, Miner, RedDragon, KSWgeo, ThorMode, dhk2725, Rabb2t, SatuM"],
+    "verifier": "Knobbelboy",
+    "verification": "https://youtu.be/WRfaroi9PpA",
+    "percentToQualify": "50",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "foin",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "selasi",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 60,
+            "hz": 60
+        }
+    ]
+}

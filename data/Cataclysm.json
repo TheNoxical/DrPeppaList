@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=nH0hvVr1RzU",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "selai",
+            "link": "https://youtu.be/YhHYgKleSfE?si=O5zhOG0XhrBsf-W4",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
