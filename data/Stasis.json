@@ -1,0 +1,24 @@
+{
+    "id": 119137644,
+    "name": "Stasis",
+    "author": "MannyHeffley",
+    "creators": ["MannyHeffley"],
+    "verifier": "MannyHeffley",
+    "verification": "https://youtu.be/soy5vOLrmpk",
+    "percentToQualify": "50",
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "dofar",
+            "link": "https://youtu.be/bTR2WQsRBrE?si=7WHZ1HTSE7LsbJme",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Manipulan",
+            "link": "https://youtu.be/QRcsd3NkFHg?si=1Rr_EuwdLnJ9fF5E",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

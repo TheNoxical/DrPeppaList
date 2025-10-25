@@ -1,0 +1,36 @@
+{
+    "id": 119259720,
+    "name": "Without U",
+    "author": "NoobyPro27",
+    "creators": ["NoobyPro27, Kodex360, ExIIImE, Xenith, AirSavage, stcubing, Dom89, QWENNUNNEE, ClingingBog, Sruj98, Cdpre, Xolarzz, ewop, Nau, Kivixi, Gooseam, tenzk, harent, deactive"],
+    "verifier": "Zeronium",
+    "verification": "https://youtu.be/63cb6Rm3XJU",
+    "percentToQualify": "50",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Ry3",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "foin",
+            "link": "https://youtu.be/b1nXdQNGucc?si=8jQnyWHKt5pK7nzM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Noxical",
+            "link": "https://youtu.be/TNlTtKNYdAg?si=esNlvWQr295Qf0iO",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "dofar",
+            "link": "https://www.youtube.com/watch?v=RhcpvUTroSU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

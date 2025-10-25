@@ -1,0 +1,18 @@
+{
+    "id": 88244926,
+    "name": "MISFIRE",
+    "author": "Galaxxyss",
+    "creators": ["Waffl3x, Metsho, Galaxxyss, zYuko, lGenoxide, StarkytheSalad, GawrGura, valentine"],
+    "verifier": "Zeronium",
+    "verification": "https://youtu.be/hKerWliimjg",
+    "percentToQualify": "50",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "dofar",
+            "link": "https://youtu.be/u7bSMz73Uus?si=cScn2BllPS-NqxLI",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
