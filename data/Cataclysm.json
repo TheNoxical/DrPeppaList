@@ -9,12 +9,6 @@
     "password": "666777",
     "records": [
         {
-            "user": "dubo",
-            "link": "https://youtu.be/Hxj8s4fELlw?si=p0-q33ylQpb7dyQ5",
-            "percent": 100,
-            "hz": 288
-        },
-        {
             "user": "Epsilonic70",
             "link": "https://youtu.be/WAOo9tAkIro?si=19Edip-7EZzdLBHn",
             "percent": 100,
@@ -25,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=nH0hvVr1RzU",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "dubo",
+            "link": "https://youtu.be/Hxj8s4fELlw?si=p0-q33ylQpb7dyQ5",
+            "percent": 100,
+            "hz": 288
         },
         {
             "user": "selasi",
