@@ -9,16 +9,16 @@
     "password": "Free to Copy",
     "records": [
         {
-            "user": "dubo",
-            "link": "https://youtu.be/PM8UlGCMPVQ?si=SDWcLQUcIq1vfIBO",
-            "percent": 100,
-            "hz": 240
-        },
-        {
             "user": "Epsilonic70",
             "link": "https://youtu.be/gDWp4pu-JBs?si=j7Zo8AIZrXvkmejM",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "dubo",
+            "link": "https://youtu.be/PM8UlGCMPVQ?si=SDWcLQUcIq1vfIBO",
+            "percent": 100,
+            "hz": 360
         },
         {
             "user": "foin",
