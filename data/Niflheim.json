@@ -1,0 +1,18 @@
+{
+    "id": 30194711,
+    "name": "Niflheim",
+    "author": "Vismuth",
+    "creators": ["Vismuth"],
+    "verifier": "Koreaqwer",
+    "verification": "https://youtu.be/FFAHbgkNH10",
+    "percentToQualify": "50",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "selasi",
+            "link": "https://youtu.be/e0GkNspnKFs?si=bnIrujJetC956EnL",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
