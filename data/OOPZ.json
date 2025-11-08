@@ -1,0 +1,18 @@
+{
+    "id": 70252932,
+    "name": "OOPZ",
+    "author": "Insidee",
+    "creators": ["Insidee"],
+    "verifier": "Insidee",
+    "verification": "https://youtu.be/KkcD_MLvH4I",
+    "percentToQualify": "50",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "foin",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
