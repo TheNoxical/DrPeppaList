@@ -1,0 +1,18 @@
+{
+    "id": 59868382,
+    "name": "Dimensional Breaking",
+    "author": "Dalfa",
+    "creators": ["Helpegasus, MaxiKD, Vexion, R3XX3R, ChiefWoof, Dalfa, Laminer, T4sty, Fiuxis, Riky2610, Tagger, Dublollo, Sirius, AngryBoy0644"],
+    "verifier": "Clara, Zeronium",
+    "verification": "https://youtu.be/FS8Wtp1Xkoo",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/CHjhwb3r59o?si=Gs9iTbyiyZgOahI9",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
