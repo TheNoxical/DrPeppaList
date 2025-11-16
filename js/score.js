@@ -4,6 +4,12 @@
 const scale = 2;
 
 // const minRank = JSON.parse("_list.json").length(); // Retrieves the array containing the list, and gets its length, which is the rank of the last level
+const list = fetch("./data/_list.json")
+    .then(response => response.json())
+    .then(data => {
+        console.log(data);
+        console.log(data.length);
+    });
 
 /**
  * Calculate the score awarded when having a certain percentage on a list level
