@@ -1,0 +1,18 @@
+{
+    "id": 38765979,
+    "name": "Mujigae",
+    "author": "REDACTED",
+    "creators": ["REDACTED"],
+    "verifier": "Hotball1",
+    "verification": "https://youtu.be/H2-uD1jNZCw",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/y2z6Umjil5A?si=RnC-AnW1GtwR-LJA",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

@@ -21,11 +21,16 @@
             "hz": 360
         },
         {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/a36e85kAU04?si=qrFeYn6bzCC_qwnH",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "foin",
             "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
             "percent": 60,
             "hz": 360
         }
-
     ]
 }

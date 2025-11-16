@@ -1,0 +1,18 @@
+{
+    "id": 62151546,
+    "name": "Evangelion",
+    "author": "Yoonsrdynamix",
+    "creators": ["Morin, Yoonsrdynamix, Lem, blastblock, Scopal, Skrypto, Connected, Chuckgamer1, Arithi, Omni, hawkyre, XGen26"],
+    "verifier": "hawkyre",
+    "verification": "https://youtu.be/ATh4tbIz0HM",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

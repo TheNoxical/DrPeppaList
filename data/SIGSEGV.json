@@ -1,0 +1,18 @@
+{
+    "id": 61936205,
+    "name": "SIGSEGV",
+    "author": "REDACTED",
+    "creators": ["REDACTED"],
+    "verifier": "REDACTED",
+    "verification": "https://youtu.be/RkKn5HWqpIM",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/EQJW37CJcWc?si=HUbTIaqbaZHb7xTn",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

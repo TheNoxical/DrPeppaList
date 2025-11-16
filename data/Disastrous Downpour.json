@@ -1,0 +1,18 @@
+{
+    "id": 77205012,
+    "name": "Disastrous Downpour",
+    "author": "Kodex360",
+    "creators": ["Kodex360, Handexx, Sparkle224, Micr9n, Khelado, ilnm, Lordequacc, Nekotik, Splinter25, PreeZee, Mangosteen, Lamellae, Gmoney03, Tahsen"],
+    "verifier": "LunarSpark",
+    "verification": "https://youtu.be/qnSbGOeFD2M",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

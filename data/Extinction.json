@@ -1,0 +1,18 @@
+{
+    "id": 50060092,
+    "name": "Extinction",
+    "author": "Chom",
+    "creators": ["JacobRoso, SlimJim, Nico99, Lqah, WHErwin, MrLorenzo, Straw, sqrl, Nickrx15, Zap101, ZBM, Creatorflex, Jbeast, Balloon"],
+    "verifier": "Extravagon",
+    "verification": "https://youtu.be/IimtF_24Pq8",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

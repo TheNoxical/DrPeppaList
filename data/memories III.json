@@ -1,0 +1,18 @@
+{
+    "id": 72651677,
+    "name": "memories III",
+    "author": "The4n1ma",
+    "creators": ["The4n1ma, Rabbit Dash, iMeox, MC Muffin, Paolz201, Superioxx, Pr0r4mon, Cromicon, Ghooster, Anubis, AppleCr, KrazyGFX, Ponix, Trbv, Nafti"],
+    "verifier": "Dorami",
+    "verification": "https://youtu.be/XI4SkaFqS5c",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/TMaGVxXGGUY?si=4e9oNCvh2JJKHpOc",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 55539300,
+    "name": "Dimension Breaker",
+    "author": "BIANOX",
+    "creators": ["Eggnog, BIANOX, MoonSpark, Enzore, Alecast, Konsi, voltex, Logic, Enixy, OpteX"],
+    "verifier": "Gabs",
+    "verification": "https://youtu.be/fIxFGfjCmA8",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

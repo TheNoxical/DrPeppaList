@@ -1,0 +1,18 @@
+{
+    "id": 60923124,
+    "name": "Azure Fiesta",
+    "author": "Dorami",
+    "creators": ["Dorami, Buragoz, Alfred, Byboy11 ZadoxxZ, DanielDLC, DangerKat, Geonox, TrueDee Fabian, FurixGD, MaxyLAND"],
+    "verifier": "Dorami",
+    "verification": "https://youtu.be/HiTfvNpwYCM",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

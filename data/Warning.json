@@ -1,0 +1,18 @@
+{
+    "id": 0,
+    "name": "Warning",
+    "author": "levelPublisher",
+    "creators": ["levelCreators"],
+    "verifier": "levelVerifier",
+    "verification": "https://youtu.be/veQc-9I-6FE",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

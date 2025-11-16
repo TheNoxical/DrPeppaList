@@ -9,8 +9,20 @@
     "password": "123985",
     "records": [
         {
+            "user": "foin",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "Epsilonic70",
             "link": "https://www.youtube.com/watch?v=toqVYbXObJY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/uo60viCZEnI?si=oXjOJbjrN9DsKwCJ",
             "percent": 100,
             "hz": 240
         }
