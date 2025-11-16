@@ -1,0 +1,18 @@
+{
+    "id": 108558924,
+    "name": "Maths",
+    "author": "oleki",
+    "creators": ["oleki"],
+    "verifier": "oleki",
+    "verification": "https://youtu.be/-Nj1KrAUhTo",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Manipulan",
+            "link": "https://youtu.be/xJL1frBYOEk",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
