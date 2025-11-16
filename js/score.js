@@ -2,6 +2,7 @@
  * Numbers of decimal digits to round to
  */
 const scale = 2;
+const maxPoints = 100; // Points awarded for completing #1
 
 // const minRank = JSON.parse("_list.json").length(); // Retrieves the array containing the list, and gets its length, which is the rank of the last level
 let minRank;
@@ -38,8 +39,8 @@ export function score(rank, percent, minPercent) {
     // let score = (50.9926 * Math.pow(0.98053, rank));
 
     // New New Formula
-    let curveConstant = Math.pow((1/50), (1/minRank));
-    let score = 100 * Math.pow(curveConstant, rank);
+    let curveConstant = Math.pow((1/maxPoints), (1/(minRank - 1)));
+    let score = maxPoints * Math.pow(curveConstant, (rank - 1));
 
     score = Math.max(0, score);
 
