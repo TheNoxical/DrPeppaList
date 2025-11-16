@@ -9,10 +9,10 @@ let minRank;
 fetch("./data/_list.json")
     .then(response => response.json())
     .then(data => {
-        console.log(data);
-        console.log(data.length);
+        // console.log(data);
+        // console.log(data.length);
         minRank = data.length;
-        console.log(minRank);
+        // console.log(minRank);
     });
 
 /**
