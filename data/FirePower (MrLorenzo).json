@@ -1,10 +1,10 @@
 {
     "id": 0,
-    "name": "levelName",
+    "name": "FirePower (MrLorenzo)",
     "author": "levelPublisher",
     "creators": ["levelCreators"],
     "verifier": "levelVerifier",
-    "verification": "youtubeLink",
+    "verification": "https://youtu.be/k4c19pkOnd8",
     "percentToQualify": "50",
     "password": "password",
     "records": [
