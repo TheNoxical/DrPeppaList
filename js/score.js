@@ -10,6 +10,7 @@ const list = fetch("./data/_list.json")
         console.log(data);
         console.log(data.length);
     });
+console.log(list);
 
 /**
  * Calculate the score awarded when having a certain percentage on a list level
