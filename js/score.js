@@ -4,7 +4,7 @@
 const scale = 2;
 
 // const minRank = JSON.parse("_list.json").length(); // Retrieves the array containing the list, and gets its length, which is the rank of the last level
-const minRank;
+let minRank;
 fetch("./data/_list.json")
     .then(response => response.json())
     .then(data => {
