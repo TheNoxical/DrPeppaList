@@ -3,6 +3,8 @@
  */
 const scale = 2;
 
+const minRank = JSON.parse("_list.json").length(); // Retrieves the array containing the list, and gets its length, which is the rank of the last level
+
 /**
  * Calculate the score awarded when having a certain percentage on a list level
  * @param {Number} rank Position on the list
@@ -23,8 +25,12 @@ export function score(rank, percent, minPercent) {
     let score = (100 / Math.sqrt((rank - 1) / 50 + 0.444444) - 50) *
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
     */
-    // New formula
-    let score = (50.9926 * Math.pow(0.98053, rank));
+    // New formula (now old)
+    // let score = (50.9926 * Math.pow(0.98053, rank));
+
+    // New New Formula
+    let curveConstant = Math.pow((1/50), (1/minRank));
+    let score = 100 * Math.pow(curveConstant, rank);
 
     score = Math.max(0, score);
 
