@@ -1,0 +1,18 @@
+{
+    "id": 72785216,
+    "name": "Lonely Lights",
+    "author": "Elvii",
+    "creators": ["Elvii, Mioxer"],
+    "verifier": "Artu",
+    "verification": "https://youtu.be/0voiQses3W4",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/_MajiOhPbIw?si=eFkrFaPYxSOr4If1",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

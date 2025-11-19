@@ -1,0 +1,18 @@
+{
+    "id": 54588072,
+    "name": "INNARDS",
+    "author": "Kaito",
+    "creators": ["Kaito"],
+    "verifier": "Cinci",
+    "verification": "https://youtu.be/r2BI-N6rcas",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "selasi",
+            "link": "https://www.youtube.com/watch?v=3AC0Of-OJxk",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

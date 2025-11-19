@@ -1,0 +1,18 @@
+{
+    "id": 95565191,
+    "name": "Plasmatic",
+    "author": "JumpingTheory",
+    "creators": ["JumpingTheory"],
+    "verifier": "suchabro",
+    "verification": "youtubeLink",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/eFMdnDvbnFc?si=qR6YaKaA-gh3Hybv",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
