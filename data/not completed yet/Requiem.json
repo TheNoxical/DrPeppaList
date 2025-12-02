@@ -1,0 +1,24 @@
+{
+    "id": 52303420,
+    "name": "Requiem",
+    "author": "Zylenox",
+    "creators": ["Lithifusion"],
+    "verifier": "Zylenox",
+    "verification": "https://youtu.be/sRCQ1JjhBq4",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "dofar",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 93,
+            "hz": 240
+        },
+        {
+            "user": "Manipulan",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 79,
+            "hz": 240
+        }
+    ]
+}

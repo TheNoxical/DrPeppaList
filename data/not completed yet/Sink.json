@@ -1,0 +1,18 @@
+{
+    "id": 77255632,
+    "name": "Sink",
+    "author": "Awedsy",
+    "creators": ["Awedsy"],
+    "verifier": "nac",
+    "verification": "https://youtu.be/qX6yzZey9Ng",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "fBloop",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 50,
+            "hz": 240
+        }
+    ]
+}
