@@ -1,17 +1,17 @@
 {
-    "id": 0,
-    "name": "levelName",
-    "author": "levelPublisher",
-    "creators": ["levelCreators"],
-    "verifier": "levelVerifier",
-    "verification": "youtubeLink",
+    "id": 71912451,
+    "name": "RUST",
+    "author": "neigefeu",
+    "creators": ["neigefeu"],
+    "verifier": "Keir",
+    "verification": "https://youtu.be/mEXGlrNMyR4",
     "percentToQualify": "50",
     "password": "password",
     "records": [
         {
-            "user": "Xtremepoo",
+            "user": "dofar",
             "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
-            "percent": 100,
+            "percent": 90,
             "hz": 240
         }
     ]

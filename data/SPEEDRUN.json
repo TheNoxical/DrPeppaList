@@ -10,9 +10,9 @@
     "records": [
         {
             "user": "foin",
-            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "link": "https://www.youtube.com/watch?v=09ESi2wu2h4",
             "percent": 100,
-            "hz": 60
+            "hz": 240
         },
         {
             "user": "Epsilonic70",
@@ -22,7 +22,7 @@
         },
         {
             "user": "selasi",
-            "link": "",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
             "percent": 85,
             "hz": 60
         },
