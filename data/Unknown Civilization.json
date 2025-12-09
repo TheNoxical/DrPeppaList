@@ -1,0 +1,18 @@
+{
+    "id": 88912081,
+    "name": "Unknown Civilization",
+    "author": "peng",
+    "creators": ["peng"],
+    "verifier": "peng",
+    "verification": "https://youtu.be/duPwSnlqTzk",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/vMXWeKcSt5M?si=E9ROoUMsFnGqctsR",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
