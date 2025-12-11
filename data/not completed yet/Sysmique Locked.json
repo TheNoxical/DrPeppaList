@@ -1,0 +1,18 @@
+{
+    "id": 23579781,
+    "name": "Sysmique Locked",
+    "author": "jakerz95",
+    "creators": ["jakerz95"],
+    "verifier": "Rlol",
+    "verification": "https://youtu.be/xVg4Nxdw9Ho",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "selasi",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 26,
+            "hz": 60
+        }
+    ]
+}
