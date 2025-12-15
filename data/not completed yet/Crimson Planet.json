@@ -1,0 +1,18 @@
+{
+    "id": 45866767,
+    "name": "Crimson Planet",
+    "author": "TrueOmega",
+    "creators": ["AimTheSame, TrusTa, YakobNugget, surreki, Endlevel, MrPPs, Terron, nikroplays, TrueOmega, Zimnior12, Dz3ser, Metalface221"],
+    "verifier": "rWooshi",
+    "verification": "https://youtu.be/euMInLjyG6k",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Zapi4",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 65,
+            "hz": 240
+        }
+    ]
+}
