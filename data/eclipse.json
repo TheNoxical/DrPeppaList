@@ -1,0 +1,18 @@
+{
+    "id": 123344470,
+    "name": "eclipse",
+    "author": "vit12",
+    "creators": ["vit12"],
+    "verifier": "vit12",
+    "verification": "https://youtu.be/lnXy6-t2Oek ",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/fLUtn5mR6QQ?si=0eLH6ExGuoI-fXSZ",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

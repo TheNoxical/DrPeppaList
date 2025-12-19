@@ -1,0 +1,18 @@
+{
+    "id": 123066284,
+    "name": "POINTIERCRATE",
+    "author": "Astrala",
+    "creators": ["Astrala"],
+    "verifier": "wafflewaffle12",
+    "verification": "https://youtu.be/PSa-ygQ9NW8",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/D36iNsGcVRc?si=U8RM44xP8_N4Xxji",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

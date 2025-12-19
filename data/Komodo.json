@@ -1,0 +1,18 @@
+{
+    "id": 41832323,
+    "name": "Komodo",
+    "author": "Espii",
+    "creators": ["Espii, Halcyon"],
+    "verifier": "Espii",
+    "verification": "https://youtu.be/mvsM4i0TGYQ",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/ag3Y02zq2Ps?si=l4XOlaPFNAHW3ibp",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 65249411,
+    "name": "Ecstasy (SleyGD)",
+    "author": "SleyGD",
+    "creators": ["SleyGD"],
+    "verifier": "SleyGD",
+    "verification": "https://youtu.be/vfMktrwB6r4",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/Tno0F_O-R9U?si=C2rsAD9HdXtwx8cD",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
