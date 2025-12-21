@@ -1,0 +1,18 @@
+{
+    "id": 44169362,
+    "name": "Under lavaland",
+    "author": "Inergy",
+    "creators": ["Zelf, DaCe, MoeMachine, GranPolli, Nikce, MistFix, Inergy, IZhar, Sandal, DavJT"],
+    "verifier": "Dorami",
+    "verification": "https://youtu.be/jHnz395AMao",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/ywygUwvDCGw?si=HiItbEFA2LZtdTA1",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
