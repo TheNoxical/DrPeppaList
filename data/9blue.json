@@ -1,0 +1,18 @@
+{
+    "id": 95061038,
+    "name": "9blue",
+    "author": "Sardina",
+    "creators": ["NikVer, Sardina"],
+    "verifier": "Улыбочку",
+    "verification": "https://youtu.be/90vj8BdelkY",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/IWzIx4ipJ8M?si=A6AJnroB6Dx8rOMC",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
