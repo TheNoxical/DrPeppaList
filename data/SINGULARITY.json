@@ -1,0 +1,18 @@
+{
+    "id": 48156638,
+    "name": "SINGULARITY",
+    "author": "BIANOX",
+    "creators": ["Eclipsed, BIANOX"],
+    "verifier": "knobbelboy",
+    "verification": "https://youtu.be/Qhaq7XBRrZQ",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/XfaM9t-VBm4?si=DRACFxBG-eKG4laN",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
