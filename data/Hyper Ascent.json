@@ -1,0 +1,18 @@
+{
+    "id": 125801346,
+    "name": "Hyper Ascent",
+    "author": "NotIconixx",
+    "creators": ["NotIconixx"],
+    "verifier": "Vergit",
+    "verification": "https://youtu.be/Bjs9KDI01Hs",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

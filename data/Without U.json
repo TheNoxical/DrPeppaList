@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=RhcpvUTroSU",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "dubo",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 88,
+            "hz": 240
         }
     ]
 }
