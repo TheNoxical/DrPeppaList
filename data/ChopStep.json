@@ -1,0 +1,18 @@
+{
+    "id": 87333912,
+    "name": "ChopStep",
+    "author": "GiaMMix",
+    "creators": ["GiaMMix"],
+    "verifier": "YakobNugget",
+    "verification": "https://youtu.be/MVXLfK0Fbhg",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/D4UONp1qmy8?si=PzJpWQt4NiWDUXjP",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
