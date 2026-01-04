@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=3AC0Of-OJxk",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Zapi4",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 80,
+            "hz": 240
         }
     ]
 }
