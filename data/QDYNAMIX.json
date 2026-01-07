@@ -1,0 +1,18 @@
+{
+    "id": 92788300,
+    "name": "QDYNAMIX",
+    "author": "valentine",
+    "creators": ["Aphelix, IntriZ, ASBCHazel, Zeronium, valentine, Gnamolor, AWESOMEME360"],
+    "verifier": "Pipz",
+    "verification": "https://youtu.be/JSXiYib1GS8",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

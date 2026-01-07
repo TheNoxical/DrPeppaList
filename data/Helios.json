@@ -1,0 +1,18 @@
+{
+    "id": 71728635,
+    "name": "Helios",
+    "author": "Canonlaw",
+    "creators": ["GTrap, s3batr0nic, Haidenn, CarlosArt16, Canonlaw"],
+    "verifier": "Easterbuny",
+    "verification": "youtubeLink",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
