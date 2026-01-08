@@ -1,0 +1,18 @@
+{
+    "id": 110227780,
+    "name": "milo",
+    "author": "xSlendy",
+    "creators": ["xSlendy"],
+    "verifier": "murderrr",
+    "verification": "https://youtu.be/ek4sUIdl5pc",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/Vt-Eou7oaAI?si=aWi_qu0CcxPsUg90",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

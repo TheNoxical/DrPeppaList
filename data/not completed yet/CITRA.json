@@ -1,9 +1,9 @@
 {
     "id": 80966089,
     "name": "CITRA",
-    "author": "VARSE",
-    "creators": ["VARSE"],
-    "verifier": "VARSE",
+    "author": "Varse",
+    "creators": ["Varse"],
+    "verifier": "Varse",
     "verification": "https://youtu.be/O_kYXvwqrWo",
     "percentToQualify": "50",
     "password": "password",
@@ -11,7 +11,7 @@
         {
             "user": "foin",
             "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
-            "percent": 79,
+            "percent": 85,
             "hz": 240
         }
     ]
