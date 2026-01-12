@@ -13,6 +13,13 @@
             "link": "https://youtu.be/TMaGVxXGGUY?si=4e9oNCvh2JJKHpOc",
             "percent": 100,
             "hz": 240
+        },
+        {   
+            "user": "foin",
+            "link": "https://www.youtube.com/watch?v=raq17KWChCM",
+            "percent": 62,
+            "hz": 60
         }
+        
     ]
 }
