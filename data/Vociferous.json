@@ -14,10 +14,18 @@
             "percent": 100,
             "hz": 360
         },
-        {   "user": "foin",
+        {   
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/eEGQdw874ws?si=Gli7JoCJCICCoEoJ",
+            "percent": 100,
+            "hz": 240
+        },
+        {   
+            "user": "foin",
             "link": "https://www.youtube.com/watch?v=Rs_kavGKeHI",
             "percent": 63,
             "hz": 144
         }
+        
     ]
 }
