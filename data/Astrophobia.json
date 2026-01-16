@@ -1,0 +1,18 @@
+{
+    "id": 94772024,
+    "name": "Astrophobia",
+    "author": "Jakalope",
+    "creators": ["royen, valentine, Jakalope"],
+    "verifier": "Jakalope",
+    "verification": "https://www.youtube.com/watch?v=whPSq4uFTK4&t=1s",
+    "percentToQualify": "50",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://www.youtube.com/watch?v=ghiKxTcBB_I",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
