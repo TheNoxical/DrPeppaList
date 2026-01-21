@@ -1,0 +1,18 @@
+{
+    "id": 27580467,
+    "name": "Hatred",
+    "author": "AZuLer4",
+    "creators": ["AZuLer4, guillester"],
+    "verifier": "guillester",
+    "verification": "https://youtu.be/mq5-I5UXZrQ",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Seadawg",
+            "link": "https://www.youtube.com/watch?v=Q9LHQeXekyM",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

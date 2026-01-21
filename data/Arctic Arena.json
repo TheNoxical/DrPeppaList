@@ -1,0 +1,18 @@
+{
+    "id": 35112531,
+    "name": "Arctic Arena",
+    "author": "Eclipsed",
+    "creators": ["Marwec, Terron, Tsukifuto, Vindik, Eclipsed, ZkadliX, BananaMuffin, Bennxt, Nahuel2998, SlimJim, Splash, TeslaX, AlexPG, Logic"],
+    "verifier": "marcz",
+    "verification": "https://youtu.be/S2DX2LIY8hM",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Seadawg",
+            "link": "https://www.youtube.com/watch?v=uS7hO7dSbfI",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

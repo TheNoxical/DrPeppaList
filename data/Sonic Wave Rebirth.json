@@ -1,0 +1,24 @@
+{
+    "id": 26681070,
+    "name": "Sonic Wave",
+    "author": "Sunix",
+    "creators": ["Cyclic"],
+    "verifier": "Sunix",
+    "verification": "https://youtu.be/GpXTwPgweAk",
+    "percentToQualify": "50",
+    "password": "112516",
+    "records": [
+        {
+            "user": "Seadawg",
+            "link": "https://www.youtube.com/watch?v=XzCNAXjSbRo",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Epsilonic70",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 50,
+            "hz": 360
+        }
+    ]
+}

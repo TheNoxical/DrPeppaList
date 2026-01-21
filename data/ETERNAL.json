@@ -1,0 +1,18 @@
+{
+    "id": 86996130,
+    "name": "ETERNAL",
+    "author": "ivyteal",
+    "creators": ["ivyteal"],
+    "verifier": "ivyteal",
+    "verification": "https://youtu.be/a5Tnh2ft0y0",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Seadawg",
+            "link": "https://www.youtube.com/watch?v=iVrSoiC7Vl0",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

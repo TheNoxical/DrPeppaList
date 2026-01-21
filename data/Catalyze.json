@@ -10,9 +10,15 @@
     "records": [
         {
             "user": "Epsilonic70",
-            "link": "https://www.youtube.com/watch?v=C9em43q2ZCA",
+            "link": "https://www.youtube.com/watch?v=C9em43q2ZCA",https://www.youtube.com/watch?v=eFT_Yo70_bQ
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Seadawg",
+            "link": "https://www.youtube.com/watch?v=eFT_Yo70_bQ",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

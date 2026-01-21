@@ -1,0 +1,18 @@
+{
+    "id": 28220417,
+    "name": "Yatagarasu",
+    "author": "TrusTa",
+    "creators": ["Giron, ViPriN, lmanubis, Jeyzor, WOOGI1411, Findexi, Rek3dge, weoweoteo, Anthrax, AbstractDark, Aeidux, Vermillion, Zelda, Michigun, Luneth, Hinds, Evasium, Csx42gaming, Funnygame, Riot, xcy7, Loogiah"],
+    "verifier": "TrusTa, Dragoon",
+    "verification": "https://youtu.be/GrGFFPhtAFc",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Seadawg",
+            "link": "https://www.youtube.com/watch?v=hG4V8xUocwM",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 66085306,
+    "name": "DARKENED",
+    "author": "BIANOX",
+    "creators": ["Ryder, BIANOX, Shocksidian, Uneskladovae, DesTicY, EyeOfTheStorm"],
+    "verifier": "Yoshikawa",
+    "verification": "https://youtu.be/xL7qdf33iVI",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Seadawg",
+            "link": "https://www.youtube.com/watch?v=FeF32GZ0fqk",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

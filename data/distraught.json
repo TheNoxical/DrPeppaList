@@ -1,0 +1,18 @@
+{
+    "id": 55224007,
+    "name": "distraught",
+    "author": "Alkali",
+    "creators": ["Eggnog, Vapen, YakobNugget, Eclipsed, Juhou, Lqah, Alkali, voltex, Salaxium, Prism"],
+    "verifier": "TGI",
+    "verification": "https://youtu.be/4tvgXbxxZUg",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Seadawg",
+            "link": "https://www.youtube.com/watch?v=CH5mHKmwxa8",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
