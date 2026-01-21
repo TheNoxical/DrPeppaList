@@ -1,0 +1,18 @@
+{
+    "id": 36886759,
+    "name": "Poltergeist Reborn",
+    "author": "ThePrimeEvil",
+    "creators": ["ThePrimeEvil, Pennutoh"],
+    "verifier": "ThePrimeEvil",
+    "verification": "https://youtu.be/mS9zVwrGfuE",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Seadawg",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

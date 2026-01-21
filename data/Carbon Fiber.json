@@ -1,0 +1,18 @@
+{
+    "id": 129561693,
+    "name": "Carbon Fiber",
+    "author": "xSlendy",
+    "creators": ["xSlendy"],
+    "verifier": "notd4n1, Shyne",
+    "verification": "https://youtu.be/Q8g4KdBkXWo",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/kpak-B-gNk4?si=88UVU_Mdr2yHHf-n",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

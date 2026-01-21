@@ -1,0 +1,18 @@
+{
+    "id": 123964123,
+    "name": "Screaming",
+    "author": "xSlendy",
+    "creators": ["xSlendy"],
+    "verifier": "murderrr",
+    "verification": "https://youtu.be/5yAzJhNlpL0",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/DdEc_O5HubY?si=iQubBOFGLo1oa1gw",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
