@@ -1,0 +1,18 @@
+{
+    "id": 113775365,
+    "name": "Rocky Road",
+    "author": "Arclight",
+    "creators": ["Archlight", "cdyzz"],
+    "verifier": "rain",
+    "verification": "https://youtu.be/uQqB3cVh_AM",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://www.youtube.com/watch?v=w5FrGKvtrcE",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
