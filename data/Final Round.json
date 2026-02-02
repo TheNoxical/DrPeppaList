@@ -1,0 +1,18 @@
+{
+    "id": 126509718,
+    "name": "Final Round",
+    "author": "SleyGD",
+    "creators": ["SleyGD"],
+    "verifier": "spark",
+    "verification": "youtubeLink",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://www.youtube.com/watch?v=zNbug-PD-W0",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

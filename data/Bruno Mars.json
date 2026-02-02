@@ -1,0 +1,18 @@
+{
+    "id": 88159604,
+    "name": "Bruno Mars",
+    "author": "SouljaBoyCrankD",
+    "creators": ["SouljaBoyCrank, Meep"],
+    "verifier": "YakobNugget",
+    "verification": "https://www.youtube.com/watch?v=CNNPPM3OGCk",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/90lqfp5PQe4?si=6nDz1WBgzXAug8Ix",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

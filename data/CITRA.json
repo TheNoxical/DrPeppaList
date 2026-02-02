@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=oIl8AFujBbw",
             "percent": 100,
             "hz": 480
+        },
+        {
+            "user": "dofar",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 51,
+            "hz": 240
         }
     ]
 }
