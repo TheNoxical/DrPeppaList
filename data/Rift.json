@@ -1,0 +1,18 @@
+{
+    "id": 106905149,
+    "name": "Rift",
+    "author": "hazel_szl",
+    "creators": ["hazel_szl, DShifter, sebestein, CelestialCat, Lander, Abdurahman, solarion, rozengerj, Nano56"],
+    "verifier": "Shyne",
+    "verification": "https://www.youtube.com/watch?v=8Fu3wIVWXko",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://www.youtube.com/watch?v=8blAhFcqMCg",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 68193306,
+    "name": "OPSM1",
+    "author": "Varse",
+    "creators": ["Varse"],
+    "verifier": "12Kelvin",
+    "verification": "https://www.youtube.com/watch?v=tRhJf0NXUSw",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "foin",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 50,
+            "hz": 240
+        }
+    ]
+}
