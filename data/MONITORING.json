@@ -1,0 +1,18 @@
+{
+    "id": 118026710,
+    "name": "MONITORING",
+    "author": "IIIGamBiTIII",
+    "creators": ["IIIGamBiTIII"],
+    "verifier": "IIIGamBiTIII",
+    "verification": "https://www.youtube.com/watch?v=5ZMVg8vJVlU",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/bS2pVEI0fIo?si=nGwOrb6psl4LHZ8B",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
