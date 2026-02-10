@@ -9,15 +9,15 @@
     "password": "password",
     "records": [
         {
-            "user": "dofar",
+            "user": "Manipulan",
             "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
-            "percent": 93,
+            "percent": 100,
             "hz": 240
         },
         {
-            "user": "Manipulan",
+            "user": "dofar",
             "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
-            "percent": 79,
+            "percent": 93,
             "hz": 240
         }
     ]
