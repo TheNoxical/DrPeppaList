@@ -10,9 +10,15 @@
     "records": [
         {
             "user": "selasi",
-            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "link": "https://youtu.be/gssN6Ia3ySI?si=R42QxxpAcqN4MY09",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Manipulan",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 83,
+            "hz": 240
         }
     ]
 }
