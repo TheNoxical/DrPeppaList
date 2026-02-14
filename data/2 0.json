@@ -1,0 +1,18 @@
+{
+    "id": 7676557,
+    "name": "2 0",
+    "author": "AranyaDeCueva",
+    "creators": ["AranyaDeCueva, Dalusa, Yene"],
+    "verifier": "Rodrigzz",
+    "verification": "https://www.youtube.com/watch?v=gLh8KrNJnzE",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://www.youtube.com/watch?v=eWKooK_AZL8",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 93155813,
+    "name": "Rigel",
+    "author": "Dan2D",
+    "creators": ["Dan2D"],
+    "verifier": "Dan2D, Inverse",
+    "verification": "https://www.youtube.com/watch?v=liJFeLHcW_Q",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/fOdJ2r43xJE?si=c3fHkcoFHPen2Ioc",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
