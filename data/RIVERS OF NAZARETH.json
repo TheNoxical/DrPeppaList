@@ -1,0 +1,24 @@
+{
+    "id": 114422869,
+    "name": "RIVERS OF NAZARETH",
+    "author": "AudieoVisual",
+    "creators": ["AudieoVisual"],
+    "verifier": "AudieoVisual",
+    "verification": "https://www.youtube.com/watch?v=xshV3v2H3_E",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "selasi",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "dofar",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 70,
+            "hz": 240
+        }
+    ]
+}
