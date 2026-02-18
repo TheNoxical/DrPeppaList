@@ -1,0 +1,18 @@
+{
+    "id": 111849025,
+    "name": "Canneles Au Chocolat",
+    "author": "AlaskaFX",
+    "creators": ["AlaskaFX, Remurin"],
+    "verifier": "Remurin",
+    "verification": "https://youtu.be/TLY3lznqL-s",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/5CqhsaIW7VM?si=pJwFQSDhYxjtO-8i",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

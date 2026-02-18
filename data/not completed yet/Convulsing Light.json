@@ -1,0 +1,18 @@
+{
+    "id": 0,
+    "name": "Convulsing Light",
+    "author": "Yerylik",
+    "creators": ["levelCreators"],
+    "verifier": "levelVerifier",
+    "verification": "youtubeLink",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/5CqhsaIW7VM?si=pJwFQSDhYxjtO-8i",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

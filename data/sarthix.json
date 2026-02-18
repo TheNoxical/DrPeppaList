@@ -1,0 +1,18 @@
+{
+    "id": 75232616,
+    "name": "sarthix",
+    "author": "Zeptrus",
+    "creators": ["Zeptrus"],
+    "verifier": "Spectre",
+    "verification": "https://youtu.be/2qFVJ6BfArY",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/hhal0l_EpqU?si=xaBBO7jC1MWNcrZ3",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
