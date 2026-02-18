@@ -1,0 +1,18 @@
+{
+    "id": 0,
+    "name": "levelName",
+    "author": "levelPublisher",
+    "creators": ["levelCreators"],
+    "verifier": "levelVerifier",
+    "verification": "youtubeLink",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/jb7u4-D_O4Q?si=GLgDGgky4cLa4Pwh",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

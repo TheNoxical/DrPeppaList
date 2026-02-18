@@ -1,0 +1,18 @@
+{
+    "id": 117707407,
+    "name": "Colorful Theorem",
+    "author": "Particlee",
+    "creators": ["Particlee"],
+    "verifier": "Aldiaa",
+    "verification": "youtubeLink",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "selasi",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 52,
+            "hz": 60
+        }
+    ]
+}

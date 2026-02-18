@@ -1,0 +1,18 @@
+{
+    "id": 132904827,
+    "name": "Convulsing Light",
+    "author": "Yerylik",
+    "creators": ["Yerylik"],
+    "verifier": "MrSpaghetti",
+    "verification": "https://youtu.be/ZVcyHxw_XAU",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/5CqhsaIW7VM?si=pJwFQSDhYxjtO-8i",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
