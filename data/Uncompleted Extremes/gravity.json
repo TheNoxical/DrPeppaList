@@ -1,0 +1,18 @@
+{
+    "id": 77008332,
+    "name": "gravity",
+    "author": "Kaza",
+    "creators": ["Kaza, Slayer"],
+    "verifier": "icedcave",
+    "verification": "https://youtu.be/Ba4PkcqiZa4",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
