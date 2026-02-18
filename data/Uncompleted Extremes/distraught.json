@@ -9,10 +9,10 @@
     "password": "password",
     "records": [
         {
-            "user": "Seadawg",
+            "user": "selasi",
             "link": "https://www.youtube.com/watch?v=CH5mHKmwxa8",
-            "percent": 100,
-            "hz": 240
+            "percent": 18,
+            "hz": 60
         }
     ]
 }

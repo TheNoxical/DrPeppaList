@@ -9,12 +9,6 @@
     "password": "password",
     "records": [
         {
-            "user": "Seadawg",
-            "link": "https://www.youtube.com/watch?v=_0Mw7OQgPQs",
-            "percent": 100,
-            "hz": 240
-        },
-        {
             "user": "foin",
             "link": "https://www.youtube.com/watch?v=oIl8AFujBbw",
             "percent": 100,

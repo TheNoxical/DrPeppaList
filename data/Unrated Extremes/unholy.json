@@ -1,10 +1,10 @@
 {
     "id": 0,
-    "name": "Sweater Weather",
+    "name": "levelName",
     "author": "levelPublisher",
     "creators": ["levelCreators"],
     "verifier": "levelVerifier",
-    "verification": "https://youtu.be/y3Kk0ZvDqUM",
+    "verification": "youtubeLink",
     "percentToQualify": "50",
     "password": "password",
     "records": [
