@@ -9,15 +9,15 @@
     "password": "password",
     "records": [
         {
-            "user": "dubo",
+            "user": "selasi",
             "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
-            "percent": 83,
+            "percent": 100,
             "hz": 240
         },
         {
-            "user": "selasi",
+            "user": "dubo",
             "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
-            "percent": 63,
+            "percent": 83,
             "hz": 240
         }
     ]

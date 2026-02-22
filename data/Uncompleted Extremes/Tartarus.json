@@ -1,0 +1,18 @@
+{
+    "id": 59075347,
+    "name": "Tartarus",
+    "author": "ItzDolphy",
+    "creators": ["Rek3dge, Salaxium, Komp, AZuLer4, Hinds, Riot, Aquatias, Cyclic, Vermillion, Aurorus, Endlevel"],
+    "verifier": "ItzDolphy",
+    "verification": "https://youtu.be/JptG7rwti1U",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Zapi4",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 71,
+            "hz": 240
+        }
+    ]
+}
