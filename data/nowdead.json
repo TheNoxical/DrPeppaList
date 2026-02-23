@@ -10,7 +10,13 @@
     "records": [
         {
             "user": "foin",
-            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/Qn7c8nHokq4?si=OiIROo79z1hguToh",
             "percent": 100,
             "hz": 240
         },

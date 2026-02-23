@@ -1,0 +1,18 @@
+{
+    "id": 41594507,
+    "name": "Surge of Memories",
+    "author": "TMNGaming",
+    "creators": ["TMNGaming"],
+    "verifier": "Kevelia",
+    "verification": "https://youtu.be/M1vGfMpIqqg?si=NsrhuhnRuykB72lz",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/M1vGfMpIqqg?si=NsrhuhnRuykB72lz",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
