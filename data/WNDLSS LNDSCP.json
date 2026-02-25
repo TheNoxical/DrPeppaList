@@ -1,0 +1,18 @@
+{
+    "id": 133299407,
+    "name": "WNDLSS LNDSCP",
+    "author": "wokecat",
+    "creators": ["wokecat, gogBone, Jenkins, PastelPink, Darmuth, para, ILRELL, eggyburstmagic"],
+    "verifier": "lazer",
+    "verification": "https://www.youtube.com/watch?v=KwK2FYdGq5c",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "dofar",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
