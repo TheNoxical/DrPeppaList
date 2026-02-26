@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=J0Iri8Sk2tk",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "laze",
+            "link": "",
+            "percent": 60,
+            "hz": 240
         }
     ]
 }
