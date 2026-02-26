@@ -1,0 +1,18 @@
+{
+    "id": 45818014,
+    "name": "Heat Wave",
+    "author": "Nico99",
+    "creators": ["Nico99, MrLorenzo, HadiGD, Goose, Enzore, NightXStalker, SSRav3n"],
+    "verifier": "Dorami",
+    "verification": "https://youtu.be/VbZhAOe7bXY",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "laze",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
