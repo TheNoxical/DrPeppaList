@@ -1,0 +1,18 @@
+{
+    "id": 104027821,
+    "name": "OVERKILL",
+    "author": "Jinnans",
+    "creators": ["Jinnans, hawkyre"],
+    "verifier": "Galaxxyss",
+    "verification": "https://youtu.be/aBDP_9-Sm-w",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "dofar",
+            "link": "",
+            "percent": 76,
+            "hz": 240
+        }
+    ]
+}
