@@ -1,0 +1,18 @@
+{
+    "id": 96050702,
+    "name": "Vexatious",
+    "author": "vonic",
+    "creators": ["skzyl, vonic"],
+    "verifier": "skzyl",
+    "verification": "https://youtu.be/uDZtsfM2cS4",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://www.youtube.com/watch?v=zdwcGtqWtXU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
