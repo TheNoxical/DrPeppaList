@@ -39,16 +39,16 @@
             "hz": 240
         },
         {
+            "user": "selasi",
+            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "percent": 72,
+            "hz": 60
+        },
+        {
             "user": "stacer",
             "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
             "percent": 60,
             "hz": 240
-        },
-        {
-            "user": "selasi",
-            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
-            "percent": 58,
-            "hz": 60
         }
     ]
 }
