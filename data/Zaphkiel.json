@@ -1,0 +1,18 @@
+{
+    "id": 36329434,
+    "name": "Zaphkiel",
+    "author": "Darwin",
+    "creators": ["Darwin", "Noctafly"],
+    "verifier": "DiamondSplash",
+    "verification": "https://www.youtube.com/watch?v=dY8IlI-NWS8",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
