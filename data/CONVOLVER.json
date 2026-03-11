@@ -1,0 +1,18 @@
+{
+    "id": 129550139,
+    "name": "CONVOLVER",
+    "author": "GoldSource",
+    "creators": ["GoldSource"],
+    "verifier": "GoldSource",
+    "verification": "https://youtu.be/em0HvQKIWAA?si=diTa0kU96mSEXWdi",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/em0HvQKIWAA?si=diTa0kU96mSEXWdi",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

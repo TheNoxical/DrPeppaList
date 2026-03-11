@@ -1,0 +1,18 @@
+{
+    "id": 96977745,
+    "name": "Nostalgic Overdrive",
+    "author": "hasuopf",
+    "creators": ["hasuopf, Cryptoria"],
+    "verifier": "Ways",
+    "verification": "https://youtu.be/GJDDLsc9bSI?si=RKkV66dj2qRXBMTX",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/GJDDLsc9bSI?si=RKkV66dj2qRXBMTX",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
