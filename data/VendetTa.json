@@ -1,0 +1,18 @@
+{
+    "id": 47797723,
+    "name": "VendetTA",
+    "author": "CFteamgd",
+    "creators": ["Vesimelon, Captain, Waffl3x, ZenThriX24, CreatorExtract, Laph7, CFteamgd, She3rlucks"],
+    "verifier": "FarzzZinjj",
+    "verification": "https://youtu.be/-7DeF-17jIc?si=jIv6_T41NvSOorFK",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/-7DeF-17jIc?si=jIv6_T41NvSOorFK",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

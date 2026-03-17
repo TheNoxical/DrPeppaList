@@ -1,0 +1,18 @@
+{
+    "id": 60810066,
+    "name": "Monstercat",
+    "author": "f3lixsram",
+    "creators": ["MrSpaghetti, Nottus, Bransilver, Vrymer, Nexender, Tartofrez, f3lixsram, spark"],
+    "verifier": "Golden",
+    "verification": "https://youtu.be/xNypIZ35Nr0?si=PWzd3UtE--R-2NM1",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/xNypIZ35Nr0?si=PWzd3UtE--R-2NM1",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
