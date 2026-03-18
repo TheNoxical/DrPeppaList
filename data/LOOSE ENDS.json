@@ -4,13 +4,13 @@
     "author": "para",
     "creators": ["para, Marwec, kozu, xVoid, ZeroSR, ewop, Deadlox, James, Scrumpy, xenith, cdpre"],
     "verifier": "AeonAir",
-    "verification": "https://youtu.be/U4WVAJmRC18?si=pq952A7mVESXXkQx",
+    "verification": "https://youtu.be/VomIk72jk6k",
     "percentToQualify": "50",
     "password": "password",
     "records": [
         {
             "user": "dofar",
-            "link": "",
+            "link": "https://youtu.be/VomIk72jk6k",
             "percent": 100,
             "hz": 240
         },
