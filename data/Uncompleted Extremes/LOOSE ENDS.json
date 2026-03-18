@@ -1,0 +1,42 @@
+{
+    "id": 133471757,
+    "name": "LOOSE ENDS",
+    "author": "para",
+    "creators": ["para, Marwec, kozu, xVoid, ZeroSR, ewop, Deadlox, James, Scrumpy, xenith, cdpre"],
+    "verifier": "AeonAir",
+    "verification": "https://youtu.be/U4WVAJmRC18?si=pq952A7mVESXXkQx",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "dofar",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "selasi",
+            "link": "",
+            "percent": 58,
+            "hz": 240
+        },
+        {
+            "user": "Noxical",
+            "link": "",
+            "percent": 53,
+            "hz": 240
+        },
+        {
+            "user": "fBloop",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Manipulan",
+            "link": "",
+            "percent": 51,
+            "hz": 240
+        }
+    ]
+}
