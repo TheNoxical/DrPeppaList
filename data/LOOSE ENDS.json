@@ -17,7 +17,7 @@
         {
             "user": "selasi",
             "link": "",
-            "percent": 58,
+            "percent": 60,
             "hz": 240
         },
         {
@@ -29,13 +29,19 @@
         {
             "user": "fBloop",
             "link": "",
-            "percent": 100,
+            "percent": 53,
             "hz": 240
         },
         {
             "user": "Manipulan",
             "link": "",
             "percent": 51,
+            "hz": 240
+        },
+        {
+            "user": "foin",
+            "link": "",
+            "percent": 50,
             "hz": 240
         }
     ]
