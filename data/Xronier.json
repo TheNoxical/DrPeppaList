@@ -16,7 +16,7 @@
         },
         {
             "user": "Manipulan",
-            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "link": "https://youtu.be/0rbxx5mPJAk?si=gTPwE782N4rVwI14",
             "percent": 100,
             "hz": 240
         },
@@ -30,6 +30,12 @@
             "user": "Epsilonic70",
             "link": "https://www.youtube.com/watch?v=cNrT-JUmGG4",
             "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "fBloop",
+            "link": "",
+            "percent": 89,
             "hz": 240
         }
     ]
