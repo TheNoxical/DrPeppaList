@@ -1,0 +1,18 @@
+{
+    "id": 107539734,
+    "name": "DEAD OF NIGHT (Split72)",
+    "author": "Split72",
+    "creators": ["Split72"],
+    "verifier": "zoidy",
+    "verification": "https://youtu.be/csO7iFyWr2g",
+    "percentToQualify": "50",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "https://youtu.be/csO7iFyWr2g",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
