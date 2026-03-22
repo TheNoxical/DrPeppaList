@@ -1,0 +1,24 @@
+{
+    "id": 117862884,
+    "name": "Diamond Disco",
+    "author": "Zeronium",
+    "creators": ["Zeronium"],
+    "verifier": "Zeronium",
+    "verification": "https://www.youtube.com/watch?v=7zi8X8uInHE&t=2s",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Epsilonic70",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Noxical",
+            "link": "",
+            "percent": 56,
+            "hz": 240
+        }
+    ]
+}
