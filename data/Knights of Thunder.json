@@ -1,0 +1,18 @@
+{
+    "id": 86412942,
+    "name": "Knights of Thunder",
+    "author": "HangerLord",
+    "creators": ["HangerLord"],
+    "verifier": "Helix",
+    "verification": "youtubeLink",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
