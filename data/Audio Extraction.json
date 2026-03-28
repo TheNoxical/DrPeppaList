@@ -16,7 +16,13 @@
         },
         {
             "user": "dubo",
-            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "link": "https://youtu.be/an6R6vbjy1I?si=gmMiO3KaA4rU6Yv8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "dubo",
+            "link": "",
             "percent": 70,
             "hz": 240
         }
