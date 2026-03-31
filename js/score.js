@@ -50,8 +50,11 @@ export function score(rank, percent, minPercent) {
     score = Math.max(0, score);
 
     if (percent != 100 && percent >= minPercent) {
+        // Newest formula, slight exponential increase from 1/10 of the points for 50 to 1/4 at 99
+        // Exponential growth isn't super fast though, so for the most part the ratio of points acts somewhat linearly still
         score = ((1 / 10) * score) * Math.pow((10 / 4), ((percent - minPercent) / 49));
-        return score;
+        // Return value modified to round to 2 decimal places now:
+        return Math.round(score * 100) / 100;
         // return round(score - score / 3);
     }
 
