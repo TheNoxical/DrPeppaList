@@ -4,13 +4,13 @@
     "author": "oliverbum",
     "creators": ["Zephlin, Cubical7, SupaCLUCK, oliverbum, hazelmrow, Nexel, Xapia, Stellar, zowl, DuskerHu, JaydenvdH, nala, wdlucas"],
     "verifier": "oliverbum",
-    "verification": "",
+    "verification": "https://www.youtube.com/watch?v=IQjDJyQoi6U",
     "percentToQualify": "50",
     "password": "password",
     "records": [
         {
             "user": "foin",
-            "link": "",
+            "link": "https://www.youtube.com/watch?v=IQjDJyQoi6U",
             "percent": 100,
             "hz": 240
         }
