@@ -1,0 +1,18 @@
+{
+    "id": 31462941,
+    "name": "Erebus",
+    "author": "Boldstep",
+    "creators": ["Rustam, ILRELL"],
+    "verifier": "Boldstep",
+    "verification": "",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "selasi",
+            "link": "",
+            "percent": 51,
+            "hz": 60
+        }
+    ]
+}
