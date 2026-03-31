@@ -50,8 +50,8 @@ export function score(rank, percent, minPercent) {
     score = Math.max(0, score);
 
     if (percent != 100) {
-        let progress = (percent - minPercent) / (100 - minPercent);
-        let multiplier = 0.1 + 0.1 * Math.pow(progress, 2);
+        let progress = (percent - minPercent) / (99 - minPercent);
+        let multiplier = 0.1 + 0.15 * progress;
 
         score = score * multiplier;
         return score;
