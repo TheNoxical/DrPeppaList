@@ -1,0 +1,18 @@
+{
+    "id": 126489445,
+    "name": "Voyager 1",
+    "author": "oliverbum",
+    "creators": ["Zephlin, Cubical7, SupaCLUCK, oliverbum, hazelmrow, Nexel, Xapia, Stellar, zowl, DuskerHu, JaydenvdH, nala, wdlucas"],
+    "verifier": "oliverbum",
+    "verification": "",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "foin",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
