@@ -42,10 +42,18 @@ export function score(rank, percent, minPercent) {
     let curveConstant = Math.pow((1/maxPoints), (1/(minRank - 1)));
     let score = maxPoints * Math.pow(curveConstant, (rank - 1));
 
+    // Dylan formula replace new one if it doesnt work
+    /*
+    score = score * ((percent - (minPercent - 1)) / (120 - (minPercent - 1)));
+    */
+
     score = Math.max(0, score);
 
     if (percent != 100) {
-        score = score * ((percent - (minPercent - 1)) / (120 - (minPercent - 1)));
+        let progress = (percent - minPercent) / (100 - minPercent);
+        let multiplier = 0.1 + 0.1 * Math.pow(progress, 2);
+
+        score = score * multiplier;
         return score;
         // return round(score - score / 3);
     }
