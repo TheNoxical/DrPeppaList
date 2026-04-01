@@ -2,7 +2,7 @@
  * Numbers of decimal digits to round to
  */
 const scale = 1;
-const maxPoints = 200; // Points awarded for completing #1
+const maxPoints = minRank / 2; // Points awarded for completing #1
 
 // const minRank = JSON.parse("_list.json").length(); // Retrieves the array containing the list, and gets its length, which is the rank of the last level
 let minRank;
