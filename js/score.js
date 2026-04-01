@@ -14,7 +14,7 @@ fetch("./data/_list.json")
         // console.log(minRank);
     });
 
-    const maxPoints = minRank / 2; // Points awarded for completing #1
+    const maxPoints = 150; // Points awarded for completing #1
 
 /**
  * Calculate the score awarded when having a certain percentage on a list level
