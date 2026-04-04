@@ -1,0 +1,18 @@
+{
+    "id": 35680614,
+    "name": "Hydraulic Overdrive",
+    "author": "Xyriak",
+    "creators": ["Xyriak"],
+    "verifier": "GDBrad",
+    "verification": "https://youtu.be/vAakBVshyuU?si=DDiXZTAvTLhe7v1k",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/vAakBVshyuU?si=DDiXZTAvTLhe7v1k",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

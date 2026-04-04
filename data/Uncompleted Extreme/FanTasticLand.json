@@ -1,0 +1,18 @@
+{
+    "id": 74914748,
+    "name": "FanTasticLand",
+    "author": "TheRealShun",
+    "creators": ["TheRealShun"],
+    "verifier": "smda",
+    "verification": "https://youtu.be/xMaHKH_gi68?si=_cLfPtKEdi3_hWEr",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/xMaHKH_gi68?si=_cLfPtKEdi3_hWEr",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
