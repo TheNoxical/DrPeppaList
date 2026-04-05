@@ -1,16 +1,16 @@
 {
-    "id": 0,
-    "name": "levelName",
-    "author": "levelPublisher",
-    "creators": ["levelCreators"],
-    "verifier": "levelVerifier",
-    "verification": "youtubeLink",
+    "id": 74914748,
+    "name": "Fishe",
+    "author": "SouljaBoyCrankD",
+    "creators": ["SouljaBoyCrankD, DerpOverlord"],
+    "verifier": "knoeppel",
+    "verification": "https://youtu.be/onb0xF-bAYk?si=KE8wdLtL3YD9E-eN",
     "percentToQualify": "50",
     "password": "password",
     "records": [
         {
             "user": "Xtremepoo",
-            "link": "",
+            "link": "https://youtu.be/onb0xF-bAYk?si=KE8wdLtL3YD9E-eN",
             "percent": 100,
             "hz": 240
         }
