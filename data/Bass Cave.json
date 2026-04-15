@@ -1,0 +1,18 @@
+{
+    "id": 12437428,
+    "name": "Bass Cave",
+    "author": "Bloodshot",
+    "creators": ["Bloodshot"],
+    "verifier": "nSwish",
+    "verification": "https://youtu.be/HLSdeO-drdI?si=FBc47wzVMkCLcIL3",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/HLSdeO-drdI?si=FBc47wzVMkCLcIL3",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

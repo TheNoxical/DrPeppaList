@@ -1,0 +1,18 @@
+{
+    "id": 52374843,
+    "name": "Zodiac",
+    "author": "BIANOX",
+    "creators": ["Rustam, YakobNugget, BIANOX, DreamEater, Dudex, Shocksidian, Juhou, Aquatias, Samifying, TMNGaming, Eggnog, Marwec, Pennutoh, SlimJim, LeoCreatorX, Enlex, Onnikonna, Uneskladovae, TehTactiq, Osiris GD, JoeyPlays, RicoLP"],
+    "verifier": "Technical",
+    "verification": "",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "foin",
+            "link": "",
+            "percent": 44,
+            "hz": 240
+        }
+    ]
+}

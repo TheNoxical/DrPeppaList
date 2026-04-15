@@ -4,13 +4,13 @@
     "author": "Rainstorm",
     "creators": ["Rainstorm, ZelLink, TheCdPre, iEstia"],
     "verifier": "nSwish",
-    "verification": "https://youtu.be/FbPJ2fclXHQ",
+    "verification": "",
     "percentToQualify": "50",
     "password": "password",
     "records": [
         {
             "user": "selasi",
-            "link": "https://www.youtube.com/watch?v=0KUWtsr0iww",
+            "link": "",
             "percent": 42,
             "hz": 60
         }

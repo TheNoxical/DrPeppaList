@@ -1,0 +1,18 @@
+{
+    "id": 125034264,
+    "name": "Cryothorn Hell",
+    "author": "TwisterDude161",
+    "creators": ["TwisterDude161"],
+    "verifier": "TwisterDude161",
+    "verification": "https://youtu.be/s991mz4-pKM?si=1Y_3LH3eOF-0ZEC_",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/s991mz4-pKM?si=1Y_3LH3eOF-0ZEC_",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

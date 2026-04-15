@@ -1,0 +1,18 @@
+{
+    "id": 60512120,
+    "name": "PLUS ULTRA",
+    "author": "ILRELL",
+    "creators": ["RekindL, HotoCot, Reunomi, PrismDash, iZapper, 8BitFudge, CastriX, AlFas, M3nhHu3, Echonox, GeometryTom, _Cancel, Charky, Dudex, Platnuu, SirHadoken, Kips, xenoteric, Osiris GD, Xyanide"],
+    "verifier": "Stormfly",
+    "verification": "https://youtu.be/3mUOiVHLQAA?si=jeTALM_iV95zvzpJ",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/3mUOiVHLQAA?si=jeTALM_iV95zvzpJ",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

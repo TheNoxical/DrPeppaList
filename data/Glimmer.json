@@ -1,0 +1,18 @@
+{
+    "id": 65320079,
+    "name": "Glimmer",
+    "author": "Imjum",
+    "creators": ["Imjum"],
+    "verifier": "Doli, Pouche",
+    "verification": "https://youtu.be/egqIv8QhoGU?si=LhWf-s1pJXGF7hlj",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/egqIv8QhoGU?si=LhWf-s1pJXGF7hlj",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
