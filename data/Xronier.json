@@ -9,6 +9,12 @@
     "password": "password",
     "records": [
         {
+            "user": "JinoBeats",
+            "link": "https://www.youtube.com/watch?v=LC1PXv2C6zE",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "selasi",
             "link": "https://youtu.be/gssN6Ia3ySI?si=R42QxxpAcqN4MY09",
             "percent": 100,

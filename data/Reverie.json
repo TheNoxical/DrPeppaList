@@ -9,14 +9,20 @@
     "password": "895562",
     "records": [
         {
+            "user": "JinoBeats",
+            "link": "https://www.youtube.com/watch?v=hhpe_UF0GYg",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "Epsilonic70",
-            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "link": "",
             "percent": 100,
             "hz": 240
         },
         {
             "user": "dubo",
-            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "link": "",
             "percent": 100,
             "hz": 240
         },

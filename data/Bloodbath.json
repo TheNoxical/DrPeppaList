@@ -9,16 +9,22 @@
     "password": "Free To Copy",
     "records": [
         {
+            "user": "foin",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "JinoBeats",
+            "link": "https://www.youtube.com/watch?v=OlaIPITjGAs&list=PLIkE292_enRCf9oBwnUwsmkFX_lQQ5yIY",
+            "percent": 100,
+            "hz": 120
+        },
+        {
             "user": "Epsilonic70",
             "link": "https://www.youtube.com/watch?v=loE7aZ-TWws",
             "percent": 100,
             "hz": 240
-        },
-        {
-            "user": "foin",
-            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
-            "percent": 100,
-            "hz": 60
         },
         {
             "user": "Zapi4",
@@ -40,13 +46,13 @@
         },
         {
             "user": "dubo",
-            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "link": "",
             "percent": 97,
             "hz": 240
         },
         {
             "user": "stacer",
-            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "link": "",
             "percent": 60,
             "hz": 240
         }

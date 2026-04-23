@@ -9,6 +9,12 @@
     "password": "Free To Copy",
     "records": [
         {
+            "user": "JinoBeats",
+            "link": "https://www.youtube.com/watch?v=hAeyf1BbFi8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
             "user": "Epsilonic70",
             "link": "https://youtu.be/FlouLvyUha0?si=k0py5h2Hh4fcyY2j",
             "percent": 100,
