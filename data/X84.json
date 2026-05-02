@@ -1,0 +1,18 @@
+{
+    "id": 110791899,
+    "name": "X84",
+    "author": "Xav",
+    "creators": ["Xav"],
+    "verifier": "Xav",
+    "verification": "https://www.youtube.com/watch?v=n-wjaGackzMink",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "JinoBeats",
+            "link": "https://www.youtube.com/watch?v=n-wjaGackzM",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
