@@ -4,19 +4,19 @@
     "author": "At242",
     "creators": ["At242, Latezk"],
     "verifier": "At242, Latezk",
-    "verification": "https://www.youtube.com/watch?v=xFOPOPcuYJE",
+    "verification": "https://www.youtube.com/watch?v=TWHR-UjCJBY",
     "percentToQualify": "50",
     "password": "password",
     "records": [
         {
             "user": "foin",
-            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "link": "https://www.youtube.com/watch?v=TWHR-UjCJBY",
             "percent": 100,
             "hz": 240
         },
         {
             "user": "dofar",
-            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "link": "https://www.youtube.com/watch?v=TWHR-UjCJBY",
             "percent": 100,
             "hz": 240
         }
