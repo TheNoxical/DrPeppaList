@@ -1,0 +1,18 @@
+{
+    "id": 59656281,
+    "name": "Hydratic",
+    "author": "MaxyLAND",
+    "creators": ["MaxyLAND, Retropt, Abdula, Irving Soluble, RaZZ, Chuchito Domin, Strill, FurixGD, Daxfan"],
+    "verifier": "MrSpaghetti",
+    "verification": "https://www.youtube.com/watch?v=4frmTF5vfsA",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://www.youtube.com/watch?v=4frmTF5vfsA",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

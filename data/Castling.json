@@ -10,7 +10,7 @@
     "records": [
         {
             "user": "foin",
-            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "link": "",
             "percent": 100,
             "hz": 240
         },
@@ -22,7 +22,13 @@
         },
         {
             "user": "stacer",
-            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/zUsgL--3I_Y?si=2sAm9NXlv0UwH2n3",
             "percent": 100,
             "hz": 240
         }

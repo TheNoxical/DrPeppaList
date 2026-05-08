@@ -10,7 +10,7 @@
     "records": [
         {
             "user": "fBloop",
-            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "link": "",
             "percent": 100,
             "hz": 360
         },
@@ -22,25 +22,31 @@
         },
         {
             "user": "Epsilonic70",
-            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "link": "",
             "percent": 100,
             "hz": 360
         },
         {
             "user": "selasi",
-            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "link": "",
             "percent": 100,
             "hz": 60
         },
         {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/tp1iHKVS0d0?si=LML5lBDupyfWAVEj",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "stacer",
-            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "link": "",
             "percent": 68,
             "hz": 240
         },
         {
             "user": "dofar",
-            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "link": "",
             "percent": 59,
             "hz": 240
         }

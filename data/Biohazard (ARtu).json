@@ -1,0 +1,18 @@
+{
+    "id": 61997741,
+    "name": "Biohazard",
+    "author": "ARtu",
+    "creators": ["Ka1ns, Artumanka, guleshelt, Andr1x, Maitnary, silver"],
+    "verifier": "ARtu",
+    "verification": "https://www.youtube.com/watch?v=IMzaYsHrsLc",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://www.youtube.com/watch?v=IMzaYsHrsLc",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

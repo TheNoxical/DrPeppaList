@@ -1,0 +1,18 @@
+{
+    "id": 110980754,
+    "name": "Liz",
+    "author": "issanagay",
+    "creators": ["IgongDae, issanagay"],
+    "verifier": "IgongDae",
+    "verification": "https://www.youtube.com/watch?v=SVZyGfPbNIQ",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://www.youtube.com/watch?v=SVZyGfPbNIQ",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

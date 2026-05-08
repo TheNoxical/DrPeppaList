@@ -1,0 +1,18 @@
+{
+    "id": 87481937,
+    "name": "Hidden in the Sand",
+    "author": "ASBCHazel",
+    "creators": ["Wingless,ASBCHazel"],
+    "verifier": "chloechu",
+    "verification": "https://www.youtube.com/watch?v=ritY61Dhv2M",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://www.youtube.com/watch?v=ritY61Dhv2M",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
