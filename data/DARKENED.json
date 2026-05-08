@@ -4,10 +4,16 @@
     "author": "BIANOX",
     "creators": ["Ryder, BIANOX, Shocksidian, Uneskladovae, DesTicY, EyeOfTheStorm"],
     "verifier": "Yoshikawa",
-    "verification": "",
+    "verification": "https://youtu.be/AT_E6Gnaf0E?si=C5h2mlZVKPMrwgMH",
     "percentToQualify": "50",
     "password": "password",
     "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/AT_E6Gnaf0E?si=C5h2mlZVKPMrwgMH",
+            "percent": 100,
+            "hz": 240
+        },
         {
             "user": "dubo",
             "link": "",
