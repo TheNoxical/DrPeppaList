@@ -1,0 +1,18 @@
+{
+    "id": 43214204,
+    "name": "Vertigo (notLevo)",
+    "author": "notLevo",
+    "creators": ["notLevo"],
+    "verifier": "LucidGD",
+    "verification": "https://youtu.be/WFdt8Os4_Vw?si=gxSV1TxaCN_VeUif",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/WFdt8Os4_Vw?si=gxSV1TxaCN_VeUif",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

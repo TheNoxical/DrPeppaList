@@ -1,0 +1,18 @@
+{
+    "id": 46249401,
+    "name": "Abandoned Planet",
+    "author": "Metalface221",
+    "creators": ["Metalface221"],
+    "verifier": "Metalface221",
+    "verification": "https://youtu.be/YjcKWb5ze7Q?si=5sODngBlHesLdSaS",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/YjcKWb5ze7Q?si=5sODngBlHesLdSaS",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

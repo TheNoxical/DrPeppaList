@@ -4,13 +4,13 @@
     "author": "Xav",
     "creators": ["Xav"],
     "verifier": "Xav",
-    "verification": "https://www.youtube.com/watch?v=n-wjaGackzMink",
+    "verification": "https://youtu.be/n-wjaGackzM?si=BUhWgW9w_n5E4y9L",
     "percentToQualify": "50",
     "password": "password",
     "records": [
         {
             "user": "JinoBeats",
-            "link": "https://www.youtube.com/watch?v=n-wjaGackzM",
+            "link": "https://youtu.be/n-wjaGackzM?si=BUhWgW9w_n5E4y9L",
             "percent": 100,
             "hz": 240
         }

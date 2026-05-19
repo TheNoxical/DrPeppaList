@@ -1,0 +1,18 @@
+{
+    "id": 59270436,
+    "name": "Tempered Steel",
+    "author": "ItsHybrid",
+    "creators": ["Zanna83, Endlevel, Molds, MadisonYuko, Minaxa, Realvet, Isane, ItsHybrid, Shaun07, iEstia"],
+    "verifier": "Rainstorm",
+    "verification": "https://youtu.be/YX1Yp_R7gGc?si=C45sflfqTu2WZrvn",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/YX1Yp_R7gGc?si=C45sflfqTu2WZrvn",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

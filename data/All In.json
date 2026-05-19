@@ -1,0 +1,18 @@
+{
+    "id": 96549270,
+    "name": "All In",
+    "author": "l4tezk",
+    "creators": ["l4tezk"],
+    "verifier": "l4tezk",
+    "verification": "https://youtu.be/3j_zNwh3-34?si=33grsTclxcYSPcQY",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/3j_zNwh3-34?si=33grsTclxcYSPcQY",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

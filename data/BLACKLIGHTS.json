@@ -1,0 +1,18 @@
+{
+    "id": 92782493,
+    "name": "BLACKLIGHTS",
+    "author": "whlt",
+    "creators": ["MaxxoRMeN, J27Blaze, whlt"],
+    "verifier": "Zeronium",
+    "verification": "https://youtu.be/9zaEF0EibaE?si=YmPLHasCUzZOq84C",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/9zaEF0EibaE?si=YmPLHasCUzZOq84C",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

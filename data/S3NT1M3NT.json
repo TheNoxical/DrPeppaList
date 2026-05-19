@@ -1,0 +1,18 @@
+{
+    "id": 113544846,
+    "name": "S3NT1M3NT",
+    "author": "Shyne",
+    "creators": ["Shyne"],
+    "verifier": "Shyne, lola, zof",
+    "verification": "https://youtu.be/BLxozJoumjE?si=RU7xV9AkGcdSaofv",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/BLxozJoumjE?si=RU7xV9AkGcdSaofv",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
