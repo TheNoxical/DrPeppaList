@@ -1,9 +1,9 @@
 {
-    "id": 59539361,
-    "name": "Eternal Moment",
-    "author": "Rainstorm",
-    "creators": ["Rainstorm, ZelLink, TheCdPre, iEstia"],
-    "verifier": "nSwish",
+    "id": 0,
+    "name": "Killbot",
+    "author": "Lithifusion",
+    "creators": ["Lithifusion"],
+    "verifier": "Boldstep",
     "verification": "",
     "percentToQualify": "50",
     "password": "password",
@@ -11,7 +11,7 @@
         {
             "user": "selasi",
             "link": "",
-            "percent": 42,
+            "percent": 0,
             "hz": 60
         }
     ]
