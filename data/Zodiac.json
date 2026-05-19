@@ -4,14 +4,14 @@
     "author": "BIANOX",
     "creators": ["Rustam, YakobNugget, BIANOX, DreamEater, Dudex, Shocksidian, Juhou, Aquatias, Samifying, TMNGaming, Eggnog, Marwec, Pennutoh, SlimJim, LeoCreatorX, Enlex, Onnikonna, Uneskladovae, TehTactiq, Osiris GD, JoeyPlays, RicoLP"],
     "verifier": "Technical",
-    "verification": "",
+    "verification": "https://www.youtube.com/watch?v=wYCbKltx5NU&t=97s",
     "percentToQualify": "50",
     "password": "password",
     "records": [
         {
             "user": "foin",
-            "link": "",
-            "percent": 78,
+            "link": "https://www.youtube.com/watch?v=wYCbKltx5NU&t=97s",
+            "percent": 100,
             "hz": 240
         }
     ]
