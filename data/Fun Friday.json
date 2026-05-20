@@ -1,0 +1,18 @@
+{
+    "id": 127135884,
+    "name": "Fun Friday",
+    "author": "Zeronium",
+    "creators": ["Zeronium"],
+    "verifier": "Zeronium",
+    "verification": "https://www.youtube.com/watch?v=omT7iPs9tow",
+    "percentToQualify": "50",
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "foin",
+            "link": "https://www.youtube.com/watch?v=omT7iPs9tow",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
