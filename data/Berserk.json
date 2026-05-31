@@ -1,0 +1,18 @@
+{
+    "id": 60130895,
+    "name": "Berserk",
+    "author": "TrusTa",
+    "creators": ["TrusTa, Zylenox"],
+    "verifier": "Darkswe",
+    "verification": "https://youtu.be/dPN1jnFPMxk?si=RGxYIEpMBgrrkg7a",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/dPN1jnFPMxk?si=RGxYIEpMBgrrkg7a",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

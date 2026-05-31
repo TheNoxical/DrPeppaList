@@ -1,0 +1,18 @@
+{
+    "id": 74986585,
+    "name": "Betelgeuse",
+    "author": "Zanna83",
+    "creators": ["Zanna83"],
+    "verifier": "MrSpaghetti",
+    "verification": "https://youtu.be/SAJ0OMxinZU?si=EXMMFWFNO6qp6byv",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/SAJ0OMxinZU?si=EXMMFWFNO6qp6byv",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

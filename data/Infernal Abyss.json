@@ -1,0 +1,18 @@
+{
+    "id": 27379546,
+    "name": "Infernal Abyss",
+    "author": "GgB0y",
+    "creators": ["GgB0y, BIANOX, Manix648"],
+    "verifier": "BlassCFB",
+    "verification": "https://youtu.be/bbPnnPwRFjU?si=RURpxaICuRP7p0Jc",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/bbPnnPwRFjU?si=RURpxaICuRP7p0Jc",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

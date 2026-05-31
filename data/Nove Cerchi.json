@@ -1,0 +1,18 @@
+{
+    "id": 96002712,
+    "name": "Nove Cerchi",
+    "author": "LudiumGD",
+    "creators": ["LudiumGD"],
+    "verifier": "playeruan",
+    "verification": "https://youtu.be/bmKsH_UfJ60?si=G3tdfY8VoYrYcA6m",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/bmKsH_UfJ60?si=G3tdfY8VoYrYcA6m",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

@@ -1,17 +1,17 @@
 {
-    "id": 0,
+    "id": 38754426,
     "name": "Killbot",
     "author": "Lithifusion",
     "creators": ["Lithifusion"],
     "verifier": "Boldstep",
-    "verification": "",
+    "verification": "https://www.youtube.com/watch?v=UQvPvOGYdpw",
     "percentToQualify": "50",
     "password": "password",
     "records": [
         {
             "user": "selasi",
             "link": "",
-            "percent": 0,
+            "percent": 100,
             "hz": 60
         }
     ]

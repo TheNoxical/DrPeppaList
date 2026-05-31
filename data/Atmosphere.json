@@ -1,0 +1,18 @@
+{
+    "id": 42664144,
+    "name": "Atmosphere",
+    "author": "VoidSquad",
+    "creators": ["Cyber Orion, Djoxy, Optation, zhawker, Straw, Manheadrambo, Wombat, Kazia, Oasiz, Squared, Hexhammer, GaidenHertuny, Bermard, SpadeKilla17, Mactanow, Aqwuh, FozaeKitty, KINGTONY"],
+    "verifier": "BrianTheBurger",
+    "verification": "https://youtu.be/7tMkGUz2Afk?si=WC17iECT6GCkvTt4",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/7tMkGUz2Afk?si=WC17iECT6GCkvTt4",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
