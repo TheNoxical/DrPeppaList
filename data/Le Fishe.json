@@ -1,0 +1,18 @@
+{
+    "id": 80647754,
+    "name": "Le Fishe",
+    "author": "PrankOrigami",
+    "creators": ["PrankOrigami"],
+    "verifier": "SyncJaws",
+    "verification": "https://youtu.be/5hXqlPU8HXs?si=qNT77E-dNigwWF-v ",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/5hXqlPU8HXs?si=qNT77E-dNigwWF-v ",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

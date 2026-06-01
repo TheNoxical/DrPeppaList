@@ -4,13 +4,13 @@
     "author": "Lithifusion",
     "creators": ["Lithifusion"],
     "verifier": "Boldstep",
-    "verification": "https://www.youtube.com/watch?v=UQvPvOGYdpw",
+    "verification": "https://www.youtube.com/watch?v=NyA-s3wAWv0",
     "percentToQualify": "50",
     "password": "password",
     "records": [
         {
             "user": "selasi",
-            "link": "",
+            "link": "https://www.youtube.com/watch?v=NyA-s3wAWv0",
             "percent": 100,
             "hz": 60
         }
