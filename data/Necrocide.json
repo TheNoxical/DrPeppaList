@@ -1,0 +1,18 @@
+{
+    "id": 53653552,
+    "name": "Necrocide",
+    "author": "Zylenox",
+    "creators": ["Zylenox"],
+    "verifier": "Zylenox",
+    "verification": "https://youtu.be/LT0K8Ooa0fc?si=DEObL_F6hpTDxeKL",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/LT0K8Ooa0fc?si=DEObL_F6hpTDxeKL",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

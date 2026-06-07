@@ -1,0 +1,18 @@
+{
+    "id": 50226022,
+    "name": "GridLocked",
+    "author": "Eclipsed",
+    "creators": ["YakobNugget, ZBM, Eclipsed, Straw, Vapen, SlimJim, MaxiKD, BIANOX, JacobRoso, Lqah, Logic, Splash, Spadekilla, Eggnog, Uneskladovae, WHErwin"],
+    "verifier": "WormFodder",
+    "verification": "https://youtu.be/N9D17tLHYN4?si=mSeZcUgwtWbcFAnD",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/N9D17tLHYN4?si=mSeZcUgwtWbcFAnD",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

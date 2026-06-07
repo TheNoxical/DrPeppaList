@@ -4,7 +4,7 @@
     "author": "Andromeda",
     "creators": ["Loogiah, Tygrysek, Andromeda, WOOGI1411, Giron, Findexi, Crack, Cyclic, UserMatt18, ZenthicAlpha, [REDACTED], CreepyDash, Zobros, ViPriN, MaJackO"],
     "verifier": "Andromeda",
-    "verification": "https://www.youtube.com/watch?v=kUTC700-5UA",
+    "verification": "https://www.youtube.com/watch?v=ocDHcLpCjTI",
     "percentToQualify": "50",
     "password": "Free To Copy",
     "records": [
@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=ocDHcLpCjTI",
             "percent": 100,
             "hz": 288
+        },
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/VMTCpbSTMcU?si=kLIMwl4BQ6b9d-GD",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
