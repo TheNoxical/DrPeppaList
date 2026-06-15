@@ -1,0 +1,18 @@
+{
+    "id": 0,
+    "name": "Sakupen Joy",
+    "author": "spark",
+    "creators": ["spark"],
+    "verifier": "sink",
+    "verification": "youtubeLink",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

@@ -1,6 +1,6 @@
 {
     "id": 36329434,
-    "name": "Zaphkiel",
+    "name": "ZAPHKIEL",
     "author": "Darwin",
     "creators": ["Darwin", "Noctafly"],
     "verifier": "DiamondSplash",
@@ -10,6 +10,12 @@
     "records": [
         {
             "user": "Epsilonic70",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "foin",
             "link": "",
             "percent": 100,
             "hz": 240
