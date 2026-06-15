@@ -1,0 +1,18 @@
+{
+    "id": 141662502,
+    "name": "Lone",
+    "author": "thazm",
+    "creators": ["thazm"],
+    "verifier": "thazm",
+    "verification": "https://youtu.be/1hEnB8fWTl8?si=Jal_mhEyk7scc8ut",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/1hEnB8fWTl8?si=Jal_mhEyk7scc8ut",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
