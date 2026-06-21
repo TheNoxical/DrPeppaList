@@ -1,0 +1,18 @@
+{
+    "id": 86996130,
+    "name": "ETERNAL",
+    "author": "ivyteal",
+    "creators": ["ivyteal"],
+    "verifier": "ivyteal",
+    "verification": "https://youtu.be/dHLWpfNWUeM?si=OMuBXRylQPof0LrM",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/dHLWpfNWUeM?si=OMuBXRylQPof0LrM",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 128236384,
+    "name": "cloud",
+    "author": "kuip",
+    "creators": ["kuip, crusso"],
+    "verifier": "crusso",
+    "verification": "https://youtu.be/7Y-XfjxNmbE?si=c664pHzGj-VxEsap",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/7Y-XfjxNmbE?si=c664pHzGj-VxEsap",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
