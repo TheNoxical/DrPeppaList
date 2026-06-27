@@ -10,7 +10,7 @@
     "records": [
         {
             "user": "foin",
-            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "link": "",
             "percent": 100,
             "hz": 60
         },
@@ -28,9 +28,15 @@
         },
         {
             "user": "dubo",
-            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "link": "",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "JinoBeats",
+            "link": "https://youtu.be/XGeLl8S8xFU",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

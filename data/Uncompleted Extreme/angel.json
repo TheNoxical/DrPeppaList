@@ -1,9 +1,9 @@
 {
-    "id": 31462941,
-    "name": "Erebus",
-    "author": "Boldstep",
-    "creators": ["Rustam, ILRELL"],
-    "verifier": "Boldstep",
+    "id": 143457831,
+    "name": "angel",
+    "author": "Insxne97",
+    "creators": ["Insxne97"],
+    "verifier": "Insxne97",
     "verification": "",
     "percentToQualify": "50",
     "password": "password",
@@ -11,7 +11,7 @@
         {
             "user": "selasi",
             "link": "",
-            "percent": 79,
+            "percent": 56,
             "hz": 120
         }
     ]
