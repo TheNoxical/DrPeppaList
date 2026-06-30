@@ -1,0 +1,18 @@
+{
+    "id": 47171509,
+    "name": "Solarion",
+    "author": "ZephiroX",
+    "creators": ["iNighti, ZephiroX"],
+    "verifier": "Kevelia",
+    "verification": "https://youtu.be/3SojObu-WPo?si=g0hwcqNdoHyHuF38",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/3SojObu-WPo?si=g0hwcqNdoHyHuF38",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

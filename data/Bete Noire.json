@@ -10,9 +10,15 @@
     "records": [
         {
             "user": "Epsilonic70",
-            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Xtremepoo",
+            "link": "https://www.youtube.com/watch?v=k2YHkBBpAYo",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

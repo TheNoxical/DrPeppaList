@@ -1,0 +1,18 @@
+{
+    "id": 0,
+    "name": "Breakout Redux",
+    "author": "Waivve",
+    "creators": ["nwolc, Helpegasus, YakobNugget, Ji, Th04, Majkomar, TehTactiq, Hadeon, lolwut"],
+    "verifier": "Waivve",
+    "verification": "https://youtu.be/JuVlP8UmUqM?si=QG_3caFsMLhH-ibL",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/JuVlP8UmUqM?si=QG_3caFsMLhH-ibL",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
