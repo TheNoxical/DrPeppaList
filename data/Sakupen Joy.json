@@ -1,16 +1,16 @@
 {
-    "id": 0,
+    "id": 139286842,
     "name": "Sakupen Joy",
     "author": "spark",
     "creators": ["spark"],
     "verifier": "sink",
-    "verification": "youtubeLink",
+    "verification": "https://youtu.be/nczrP4yOGts?si=xwm3f8w0uQsq04FJ",
     "percentToQualify": "50",
     "password": "password",
     "records": [
         {
             "user": "Xtremepoo",
-            "link": "",
+            "link": "https://youtu.be/nczrP4yOGts?si=xwm3f8w0uQsq04FJ",
             "percent": 100,
             "hz": 240
         }
