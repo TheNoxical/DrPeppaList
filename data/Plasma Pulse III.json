@@ -1,0 +1,18 @@
+{
+    "id": 20159880,
+    "name": "Plasma Pulse III",
+    "author": "xSmokes",
+    "creators": ["xSmokes, Giron"],
+    "verifier": "xSmokes",
+    "verification": "https://youtu.be/_fDL5XGguwY?si=TKAyfsAuUZrgcxnu",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/_fDL5XGguwY?si=TKAyfsAuUZrgcxnu",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

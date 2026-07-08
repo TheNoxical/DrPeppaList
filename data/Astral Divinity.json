@@ -1,0 +1,18 @@
+{
+    "id": 58811846,
+    "name": "Astral Divinity",
+    "author": "knobbelboy",
+    "creators": ["knobbelboy"],
+    "verifier": "knobbelboy",
+    "verification": "https://youtu.be/ki5FvOUBuAA?si=vg1Hc8fFVMrCvePS",
+    "percentToQualify": "50",
+    "password": "password",
+    "records": [
+        {
+            "user": "Xtremepoo",
+            "link": "https://youtu.be/ki5FvOUBuAA?si=vg1Hc8fFVMrCvePS",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
