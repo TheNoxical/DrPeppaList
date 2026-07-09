@@ -4,13 +4,13 @@
     "author": "Boldstep",
     "creators": ["Rustam, ILRELL"],
     "verifier": "Boldstep",
-    "verification": "",
+    "verification": "https://youtu.be/8lil19IJV7U",
     "percentToQualify": "50",
     "password": "password",
     "records": [
         {
             "user": "selasi",
-            "link": "",
+            "link": "https://youtu.be/8lil19IJV7U",
             "percent": 100,
             "hz": 120
         }
