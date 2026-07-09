@@ -4,7 +4,7 @@
     "author": "levelPublisher",
     "creators": ["Moosh", "Gizbro"],
     "verifier": "Moosh",
-    "verification": "https://youtu.be/RS5ZFcuaw3I",
+    "verification": "https://youtu.be/j10FivjcfX4?si=3zW8H8QwS8981SkZ",
     "percentToQualify": "50",
     "password": "Free to Copy",
     "records": [
@@ -40,7 +40,7 @@
         },
         {
             "user": "Mr Roach",
-            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "link": "",
             "percent": 100,
             "hz": 144
         },
@@ -52,13 +52,13 @@
         },
         {
             "user": "Noxical",
-            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
-            "percent": 70,
+            "link": "",
+            "percent": 92,
             "hz": 360
         },
         {
             "user": "stacer",
-            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "link": "",
             "percent": 56,
             "hz": 360
         }
