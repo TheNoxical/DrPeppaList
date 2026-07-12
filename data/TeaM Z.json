@@ -4,15 +4,21 @@
     "author": "levelPublisher",
     "creators": ["levelCreators"],
     "verifier": "levelVerifier",
-    "verification": "https://youtu.be/zu21_854jXg",
+    "verification": "https://youtu.be/gzg5FK0A-q4?si=eTusBd_OO83KmPqF",
     "percentToQualify": "50",
     "password": "password",
     "records": [
         {
             "user": "Xtremepoo",
-            "link": "https://th.bing.com/th/id/OIP.Z9X51f4mO99PkAl1N5yBhAHaHa?rs=1&pid=ImgDetMain",
+            "link": "https://youtu.be/gzg5FK0A-q4?si=eTusBd_OO83KmPqF",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "selasi",
+            "link": "",
+            "percent": 73,
+            "hz": 120
         }
     ]
 }
